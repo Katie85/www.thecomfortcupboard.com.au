@@ -2,3 +2,88 @@
   box-sizing: border-box;
   border: solid 1px black;
 }
+
+body {
+  color: #000;
+}
+
+a {
+  color: inherit;
+}
+
+/* INCLUDE FONTS */
+
+@font-face {
+    font-family: 'sweet-sans';
+    src: url('../fonts/sweet-sans.woff2') format('woff2'),
+         url('../fonts/sweet-sans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* FONTS */
+
+.sweet-sans {
+  font-family: 'sweet-sans';
+}
+
+.h1{
+  font-size: 2.5rem;
+}
+
+/* helpers-generic */
+
+.container{
+  max-width: 1280px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* helpers-text */
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* helpers brand */
+
+.color-primary {
+  color: #ED4997;
+}
+
+.color-secondary {
+  color: #F6EAF0;
+}
+
+/* header */
+
+.logo{
+  width: 50px;
+  height: auto;
+}
+
+header li{
+  display: inline-block;
+}
+
+/* header{
+  background-color: black;
+  color: white;
+} */
+
+/* tagline */
+
+.tagline{
+  background-image: url("../img/tagline.jpg");
+  min-height: 75vh;
+  background-size: cover;
+  color: white;
+}
