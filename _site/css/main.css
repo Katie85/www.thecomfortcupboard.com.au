@@ -1,6 +1,5 @@
 *{
   box-sizing: border-box;
-  border: solid 1px black;
 }
 
 body {
@@ -59,6 +58,10 @@ a {
   text-align: center;
 }
 
+.banner-text{
+    background-color: rgba(255, 255, 255, 0.54);
+}
+
 /* helpers brand */
 
 .color-primary {
@@ -91,6 +94,8 @@ a {
   position: relative;
 }
 
+
+
 /* header */
 
 header{
@@ -103,6 +108,11 @@ header{
   height: auto;
 }
 
+.fab{
+  color: #ED4997;
+  font-size: 2rem;
+}
+
 header li{
   display: inline-block;
 }
@@ -111,6 +121,8 @@ header li{
   background-color: black;
   color: white;
 } */
+
+
 
 /* tagline */
 
@@ -122,11 +134,15 @@ header li{
   font-size: 1.5rem;
 }
 
+
+
 /* ABOUT */
 
 .about{
   border: solid 45px white;
   line-height: 1.6rem;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 /* MENUS */
@@ -139,11 +155,13 @@ header li{
   background-image: url("../img/cake.jpg");
   background-size: cover;
   color: white;
+  background-position: center;
 }
 
 .dessert-bar-menu{
 background-image: url("../img/dessert-bar.jpg");
 background-size: cover;
+background-position: center;
 color: white;
 }
 
@@ -151,6 +169,7 @@ color: white;
   background-image: url("../img/platters.jpg");
   background-size: cover;
   color: white;
+  background-position: center;
 }
 
 .coming-soon{
@@ -168,9 +187,10 @@ color: white;
   background-size: cover;
   background-position: center;
   color: white;
-  padding-top: 5%;
+  padding-top: 3%;
   padding-bottom: 5%;
   position: relative;
+  line-height: 1.6rem;
 }
 
 /* background-image */
@@ -214,4 +234,14 @@ color: white;
   padding-bottom: 5%;
   text-align: center;
   line-height: 1.6rem;
+}
+
+.vanilla{
+  border: solid 1px #ED4997;
+}
+
+.footer{
+  background-color: #ED4997;
+  text-align: center;
+  color: #F6EAF0;
 }
