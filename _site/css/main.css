@@ -77,7 +77,26 @@ a {
   background-color: #ED4997;
 }
 
+/* HELPERS position */
+
+.position-fixed{
+  position: fixed;
+}
+
+.position-absolute{
+  position: absolute;
+}
+
+.position-relative{
+  position: relative;
+}
+
 /* header */
+
+header{
+  width: 100%;
+  z-index: 5;
+}
 
 .logo{
   width: 50px;
@@ -99,13 +118,15 @@ header li{
   background-image: url("../img/tagline.jpg");
   min-height: 75vh;
   background-size: cover;
-  color: white;
+  color: #ED4997;
+  font-size: 1.5rem;
 }
 
 /* ABOUT */
 
 .about{
   border: solid 45px white;
+  line-height: 1.6rem;
 }
 
 /* MENUS */
@@ -133,5 +154,64 @@ color: white;
 }
 
 .coming-soon{
+  background-color: #F6EAF0;
+  color: #ED4997;
+  border: solid 45px white;
+  line-height: 1.6rem;
+
+}
+
+/* MENUS */
+
+.cakes{
+  background-image: url("../img/cake-menu.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  position: relative;
+}
+
+/* background-image */
+
+.cakes-content{
+  z-index: 2;
+  position: relative;
+}
+
+.cakes-overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   background-color: black;
+  opacity: .12;
+}
+
+.dessert-bar{
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  font-size: 2rem;
+}
+
+.platters{
+  background-image: url("../img/platter-menu.jpg");
+  background-size: cover;
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+/* VEGAN ICE CREAM */
+
+.vegan-ice-cream{
+  background-color: #F6EAF0;
+  color: #ED4997;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  line-height: 1.6rem;
 }
