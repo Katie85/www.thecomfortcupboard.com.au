@@ -39,6 +39,12 @@ a {
   margin-right: auto !important;
 }
 
+.container-small{
+  max-width: 768px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 /* helpers-text */
 
 .text-left {
@@ -61,6 +67,14 @@ a {
 
 .color-secondary {
   color: #F6EAF0;
+}
+
+.color-white{
+  color: white;
+}
+
+.background-primary{
+  background-color: #ED4997;
 }
 
 /* header */
@@ -86,4 +100,38 @@ header li{
   min-height: 75vh;
   background-size: cover;
   color: white;
+}
+
+/* ABOUT */
+
+.about{
+  border: solid 45px white;
+}
+
+/* MENUS */
+
+.menus{
+  min-height: 75vh;
+}
+
+.cake-menu{
+  background-image: url("../img/cake.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.dessert-bar-menu{
+background-image: url("../img/dessert-bar.jpg");
+background-size: cover;
+color: white;
+}
+
+.catering-menu{
+  background-image: url("../img/platters.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.coming-soon{
+  background-color: black;
 }
