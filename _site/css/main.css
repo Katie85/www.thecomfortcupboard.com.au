@@ -85,6 +85,10 @@ img {
   background-color: #ED4997;
 }
 
+.background-secondary{
+  background-color: #F6EAF0;
+}
+
 /* HELPERS position */
 
 .position-fixed{
@@ -243,17 +247,25 @@ background-image: url("../img/dessert-bar.jpg");
   line-height: 1.6rem;
 }
 
-.vanilla{
+.vanilla {
+  border: solid 1px #ED4997;
+}
+
+.passionfruit {
+  border: solid 1px #ED4997;
+}
+
+.chocolate {
   border: solid 1px #ED4997;
 }
 
 .footer{
-  background-color: #ED4997;
+  background-color: black;
   text-align: center;
   color: #F6EAF0;
   padding-top: 1%;
   padding-bottom: 1%;
-  border-top: solid 2px black;
+  border-top: solid 3px #ED4997;
 }
 
 
