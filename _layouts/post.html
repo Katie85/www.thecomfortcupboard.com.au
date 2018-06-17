@@ -1,35 +1,18 @@
+---
+layout: default
+---
 
 
+<section class="blog-post padded-5">
+  <img src="{{page.image_path}}">
 
-<section>
-  photo goes here
-</section>
+  <h1> {{ page.title }}</h1>
 
-  <h1>
-    {{ page.title }}
-  </h1>
-
-  <h2>
-    {{ page.serves }}
-  </h2>
-
-  <h2>
-    Ingredients
-  </h2>
-
-  <ul>
-    <li>dfdfkdjfdhfdkf</li>
-    <li>dgdgdgrggr</li>
-    <li>dfdfkdjfdhfdkf</li>
-    <li>dgdgdgrggr</li>
-    <li>dfdfkdjfdhfdkf</li>
-    <li>dgdgdgrggr</li>
-  </ul>
-
-  <h3>
-    Method
-  </h3>
+  <h3> Number of Servings: {{ page.serves }}</h3>
 
   {{ contents }}
 
-  <p> All recipes are original by me </p>
+  <p class="subtitle"> All recipes are original by me </p>
+  <!-- TODO make a css class of subtitle that makes this text small a nd grey -->
+
+</section>
