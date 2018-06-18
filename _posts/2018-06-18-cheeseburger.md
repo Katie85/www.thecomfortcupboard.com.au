@@ -4,12 +4,15 @@ title: Cheeseburger
 meta-description:
 meta-keywords:
 serves: 2
-image_path: /img/cake-menu.jpg
+image_path: /uploads/homemadebeefburger-83644-16x9.jpg
 categories:
   - food
   - recipes
+  - Party
 author: Katie Smith
 ---
+
+Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in.
 
 Ingredients
 
