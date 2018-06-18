@@ -10,7 +10,7 @@ layout: default
 
   <!-- col-3 goes here for left align -->
 
-  <div class="col-9 grid-top padded-3">
+  <div class="col-9_sm-12 grid-top padded-3">
     {% for post in paginator.posts %}
       <div class="col-6_sm-12 post-block">
           <a href="{{ post.url }}">
@@ -23,7 +23,7 @@ layout: default
   </div>
 
 
-  <div class="col-3 sidebar padded-3">
+  <div class="col-3_sm-12 sidebar padded-3">
       {% include sidebar.html %}
   </div>
 
