@@ -14,7 +14,7 @@ layout: default
           <a href="{{post.url}}">
             <h3> {{post.title}} </h3>
             <p class="post-meta">{{post.date | date_to_string }} | By {{post.author}}</p>
-            <p> {{post.excerpt | truncate:200 }} </p>
+            <p> {{post.excerpt | truncate: 200 }} </p>
           </a>
         </div>
       {% endfor %}

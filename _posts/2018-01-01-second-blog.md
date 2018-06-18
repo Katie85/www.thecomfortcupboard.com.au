@@ -3,7 +3,7 @@ layout: post
 title: Second Blog Post
 meta-description:
 meta-keywords:
-image_path: /img/cakes.jpg
+image_path: /img/dessert-bar.jpg
 categories: [food, recipes]
 author: Katie Smith
 ---

@@ -3,8 +3,12 @@
 }
 
 body {
-  color: #000;
-  font-family: 'sweet-sans';
+  color: rgb(60,60,60);
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Source Sans Pro', sans-serif; */
+  font-weight:  300;
+  line-height: 1.6rem;
 }
 
 a {
@@ -23,12 +27,16 @@ img {
          url('../fonts/sweet-sans.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
 }
 
 /* FONTS */
 
 .h1{
   font-size: 2.5rem;
+}
+h1, h2, h3, h4, header, nav .button, .tags {
+    font-family: 'sweet-sans';
 }
 
 /* helpers-generic */
@@ -61,7 +69,7 @@ img {
 
 .banner-text{
     /* background-color: rgba(255, 255, 255, 0.54); */
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 [class*=grid] .padded-1,
@@ -106,7 +114,7 @@ img {
 }
 
 .featured-text {
-  background-color: black;
+  background-color: green;
   color: #ED4997;
   padding:0.8rem;
   text-align: center;
@@ -128,6 +136,13 @@ img {
   position: relative;
 }
 
+.padding-all {
+  padding: 1rem;
+}
+
+.margin-bottom {
+  margin-bottom: 2.5rem;
+}
 
 /* buttons & tags */
 
@@ -193,7 +208,11 @@ header nav a:hover {
   min-height: 75vh;
   background-size: cover;
   color: #ED4997;
-  font-size: 1.5rem;
+}
+
+.tagline h2{
+  background-color: white;
+  padding: 1rem;
 }
 
 
@@ -202,10 +221,10 @@ header nav a:hover {
 
 .about{
   border: solid 45px white;
-  line-height: 1.7rem;
+  line-height: 2rem;
   padding-top: 5%;
   padding-bottom: 5%;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   text-align: left;
 }
 
@@ -213,6 +232,19 @@ header nav a:hover {
 
 .menus{
   min-height: 75vh;
+  border: solid 10px white;
+}
+
+.menus p{
+  padding: 5rem;
+}
+
+.menus p span{
+  background-color: white;
+  padding: 1rem;
+  display: block;
+  color: #ED4997;
+  line-height: 1.25;
 }
 
 .cake-menu, .dessert-bar-menu, .catering-menu, .cakes {
@@ -238,8 +270,8 @@ background-image: url("../img/dessert-bar.jpg");
   background-color: #F6EAF0;
   color: #ED4997;
   border: solid 45px white;
-  line-height: 1.7rem;
-  font-size: 1.5rem;
+  line-height: 2rem;
+  font-size: 1.3rem;
 }
 
 /* MENUS */
@@ -251,6 +283,10 @@ background-image: url("../img/dessert-bar.jpg");
   position: relative;
   line-height: 1.7rem;
   font-size: 1.2rem;
+}
+
+.cakes li{
+  list-style: none;
 }
 
 /* background-image */
@@ -277,6 +313,10 @@ background-image: url("../img/dessert-bar.jpg");
   font-size: 2rem;
   margin-top: 3%;
   margin-bottom: 3%;
+
+}
+.dessert-bar h2{
+  line-height: 1;
 }
 
 .platters{
@@ -324,9 +364,39 @@ background-image: url("../img/dessert-bar.jpg");
 .recipes{
   padding-top: 0.3%;
   padding-bottom: 0.3%;
-  color: #ED4997;
+  color: black;
   font-size: 1.3rem;
-  border: solid 2px #ED4997
+  border: solid 2px green;
+}
+
+/* CONTACT SECTION */
+
+.contact {
+  border: solid 1px #ED4997;
+}
+
+/* CONTACT FORM */
+
+form * {
+  background-color: black;
+  display: block;
+  width: 100%;
+  outline: none;
+  border: none;
+  margin-bottom: 10px;
+  padding: 12px;
+  border-radius: 3px;
+  color: white;
+}
+
+form button {
+  background: white;
+  border: solid 2px #ED4997;
+  color: #ED4997
+}
+
+form textarea {
+  height: 200px;
 }
 
 .footer{
@@ -343,12 +413,13 @@ background-image: url("../img/dessert-bar.jpg");
 .blog-post{
   max-width: 900px;
   margin: auto;
+  color: gray;
 }
 
 .post-image { /* this is the small image on the recipes page or any blog loops */
   background-size: cover;
   background-position: center;
-  padding-bottom: 60%;
+  padding-bottom: 90%;
 }
 
 .post-block { /* this is the block of content in the blog post loops */
