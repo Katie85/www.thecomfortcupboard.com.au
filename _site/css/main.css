@@ -60,7 +60,8 @@ img {
 }
 
 .banner-text{
-    background-color: rgba(255, 255, 255, 0.54);
+    /* background-color: rgba(255, 255, 255, 0.54); */
+    font-size: 1.5rem;
 }
 
 .padded-5 {
@@ -79,6 +80,10 @@ img {
 
 .color-white{
   color: white;
+}
+
+.color-black{
+  color: black;
 }
 
 .background-primary{
@@ -158,9 +163,11 @@ header nav a:hover {
 
 .about{
   border: solid 45px white;
-  line-height: 1.6rem;
+  line-height: 1.7rem;
   padding-top: 5%;
   padding-bottom: 5%;
+  font-size: 1.5rem;
+  text-align: left;
 }
 
 /* MENUS */
@@ -177,6 +184,7 @@ header nav a:hover {
 
 .cake-menu{
   background-image: url("../img/cake.jpg");
+  margin-right: right: 2%;
 }
 
 .dessert-bar-menu{
@@ -191,7 +199,8 @@ background-image: url("../img/dessert-bar.jpg");
   background-color: #F6EAF0;
   color: #ED4997;
   border: solid 45px white;
-  line-height: 1.6rem;
+  line-height: 1.7rem;
+  font-size: 1.5rem;
 }
 
 /* MENUS */
@@ -226,6 +235,8 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 10%;
   padding-bottom: 10%;
   font-size: 2rem;
+  margin-top: 3%;
+  margin-bottom: 3%;
 }
 
 .platters{
@@ -234,6 +245,7 @@ background-image: url("../img/dessert-bar.jpg");
   color: white;
   padding-top: 10%;
   padding-bottom: 10%;
+  margin-bottom: 3%;
 }
 
 /* VEGAN ICE CREAM */
@@ -244,19 +256,35 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 5%;
   padding-bottom: 5%;
   text-align: center;
-  line-height: 1.6rem;
+  line-height: 1.7rem;
 }
 
 .vanilla {
   border: solid 1px #ED4997;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  line-height: 1.7rem;
 }
 
 .passionfruit {
   border: solid 1px #ED4997;
+  margin-top: 3%;
+  line-height: 1.7rem;
 }
 
 .chocolate {
   border: solid 1px #ED4997;
+  margin-top: 3%;
+  line-height: 1.7rem;
+
+}
+
+.recipes{
+  padding-top: 0.3%;
+  padding-bottom: 0.3%;
+  color: #ED4997;
+  font-size: 1.5rem;
+  border: solid 2px #ED4997
 }
 
 .footer{
@@ -267,7 +295,6 @@ background-image: url("../img/dessert-bar.jpg");
   padding-bottom: 1%;
   border-top: solid 3px #ED4997;
 }
-
 
 /* blog posts */
 
