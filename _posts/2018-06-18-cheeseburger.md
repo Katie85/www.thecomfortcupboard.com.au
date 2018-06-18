@@ -5,8 +5,8 @@ meta-description:
 meta-keywords:
 image_path: /uploads/homemadebeefburger-83644-16x9.jpg
 categories:
-  - food
-  - recipes
+  - Food
+  - Recipes
   - Party
 author: Katie Smith
 ---

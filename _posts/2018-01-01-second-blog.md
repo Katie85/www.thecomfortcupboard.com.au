@@ -4,7 +4,7 @@ title: Second Blog Post
 meta-description:
 meta-keywords:
 image_path: /img/dessert-bar.jpg
-categories: [food, recipes]
+categories: [Food, Recipes]
 author: Katie Smith
 ---
 

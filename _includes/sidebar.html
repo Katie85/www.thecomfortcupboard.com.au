@@ -6,14 +6,14 @@
 </div>
 
 <div>
+
   <h2 class="featured-text">SERIES</h2>
   <nav>
-    <a href="#" class="tags">PARTY</a>
-    <a href="#" class="tags">BOWL</a>
-    <a href="#" class="tags">SNACK</a>
-    <a href="#" class="tags">SWEET</a>
-    <a href="#" class="tags">VEGAN</a>
-    <a href="#" class="tags">GLUTEN FREE</a>
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a href="{{ category_name }}" class="tags">{{ category_name }}</a>
+
+  {% endfor %}
   </nav>
 </div>
 

@@ -4,7 +4,7 @@ title: First Blog Post
 meta-description:
 meta-keywords:
 image_path: /img/eastern-bowl.jpg
-categories: [food, recipes]
+categories: [Food, Recipes]
 author: Katie Smith
 ---
 
