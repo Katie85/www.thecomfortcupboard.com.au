@@ -7,14 +7,9 @@ layout: default
   </h1>
 </section>
 <section class="grid container">
-  <div class="col-3 sidebar padded-3">
 
-      {% include sidebar.html %}
-
-  </div>
 
   <div class="col-9 grid-top padded-3">
-
     {% for post in site.posts limit:6 %}
       <div class="col-6_sm-12 post-block">
           <a href="{{ post.url }}">
@@ -24,10 +19,13 @@ layout: default
           </a>
       </div>
     {% endfor %}
-
-
-
   </div>
+
+
+  <div class="col-3 sidebar padded-3">
+      {% include sidebar.html %}
+  </div>
+
 </section>
 
 {% include subscribe.html %}
