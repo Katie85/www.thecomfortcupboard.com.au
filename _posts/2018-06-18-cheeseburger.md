@@ -3,7 +3,7 @@ layout: post
 title: Cheeseburger
 meta-description:
 meta-keywords:
-serves: 2
+serves: 4
 image_path: /uploads/homemadebeefburger-83644-16x9.jpg
 categories:
   - food
