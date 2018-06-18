@@ -3,7 +3,7 @@ layout: post
 title: Third Blog Post
 meta-description:
 meta-keywords:
-image_path: images/platters.jpg
+image_path: /img/platters.jpg
 categories: [food, recipes]
 author: Katie Smith
 ---

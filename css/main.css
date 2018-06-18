@@ -64,6 +64,17 @@ img {
     font-size: 1.5rem;
 }
 
+[class*=grid] .padded-1,
+.padded-1 {
+  padding: 1%;
+}
+
+[class*=grid] .padded-3,
+.padded-3 {
+  padding: 3%;
+}
+
+[class*=grid] .padded-5,
 .padded-5 {
   padding: 5%;
 }
@@ -94,6 +105,15 @@ img {
   background-color: #F6EAF0;
 }
 
+.featured-text {
+  background-color: black;
+  color: #ED4997;
+  padding:0.8rem;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 /* HELPERS position */
 
 .position-fixed{
@@ -108,6 +128,25 @@ img {
   position: relative;
 }
 
+
+/* buttons & tags */
+
+.tags {
+    text-decoration: none;
+    padding: 0.8rem;
+    display: block;
+    text-align:center;
+    margin: 0.8rem;
+    border: 1px solid #ED4997;
+    border-radius: 1px;
+}
+
+.tags:hover {
+  border: 1px solid #ED4997;
+  color: white;
+  background-color: #ED4997;
+  transition: 0.5s all;
+}
 
 
 /* header */
@@ -210,7 +249,8 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 3%;
   padding-bottom: 5%;
   position: relative;
-  line-height: 1.6rem;
+  line-height: 1.7rem;
+  font-size: 1.2rem;
 }
 
 /* background-image */
@@ -246,6 +286,8 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 10%;
   padding-bottom: 10%;
   margin-bottom: 3%;
+  font-size: 1.5rem;
+  line-height: 1.7rem;
 }
 
 /* VEGAN ICE CREAM */
@@ -283,7 +325,7 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 0.3%;
   padding-bottom: 0.3%;
   color: #ED4997;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   border: solid 2px #ED4997
 }
 
@@ -301,4 +343,26 @@ background-image: url("../img/dessert-bar.jpg");
 .blog-post{
   max-width: 900px;
   margin: auto;
+}
+
+.post-image { /* this is the small image on the recipes page or any blog loops */
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 60%;
+}
+
+.post-block { /* this is the block of content in the blog post loops */
+    padding: 3%;
+    text-decoration: none;
+}
+/* this is the link inside the post block that links to the blog post itself, it has the title, picture etc inside it */
+.post-block a {
+    text-decoration: none;
+    display: block;
+}
+/* .post-block a:hover {
+    color: pink;
+} */
+.post-block a:hover .post-image {
+    /* if you want to do soemthing to the image on hover, add that here */
 }

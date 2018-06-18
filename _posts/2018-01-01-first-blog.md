@@ -4,7 +4,7 @@ title: First Blog Post
 meta-description:
 meta-keywords:
 serves: 2
-image_path: images/platters.jpg
+image_path: /img/platters.jpg
 categories: [food, recipes]
 author: Katie Smith
 ---
