@@ -1,13 +1,14 @@
-*{
+* {
   box-sizing: border-box;
 }
 
 body {
   color: rgb(60,60,60);
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: 'sweet-sans';
   /* font-family: 'Open Sans', sans-serif; */
   /* font-family: 'Source Sans Pro', sans-serif; */
-  font-weight:  300;
+  font-weight:  200;
   line-height: 1.6rem;
 }
 
@@ -32,25 +33,46 @@ img {
 
 /* FONTS */
 
-.h1{
-  font-size: 2.5rem;
+.logo-text{
+  font-size: 2em;
+  display: block;
+  text-decoration: none;
+  padding: 3%;
 }
+
 h1, h2, h3, h4, header, nav .button, .tags {
     font-family: 'sweet-sans';
 }
 
+h5, h6 {
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+
+nav {
+  font-size: 1.1rem;
+}
+
+ul {
+  padding-left: 0;
+}
 /* helpers-generic */
 
 .container{
   max-width: 1280px;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
 .container-small{
-  max-width: 768px;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 /* helpers-text */
@@ -69,7 +91,8 @@ h1, h2, h3, h4, header, nav .button, .tags {
 
 .banner-text{
     /* background-color: rgba(255, 255, 255, 0.54); */
-    font-size: 2rem;
+    font-size: 1.5rem;
+    color: white;
 }
 
 [class*=grid] .padded-1,
@@ -114,8 +137,8 @@ h1, h2, h3, h4, header, nav .button, .tags {
 }
 
 .featured-text {
-  background-color: green;
-  color: #ED4997;
+  background-color: #ED4997;
+  color: white;
   padding:0.8rem;
   text-align: center;
   margin-left: 10px;
@@ -151,9 +174,9 @@ h1, h2, h3, h4, header, nav .button, .tags {
     padding: 0.8rem;
     display: block;
     text-align:center;
-    margin: 0.8rem;
+    margin: 10px;
     border: 1px solid #ED4997;
-    border-radius: 1px;
+    border-radius: 3px;
 }
 
 .tags:hover {
@@ -169,6 +192,7 @@ h1, h2, h3, h4, header, nav .button, .tags {
 header{
   width: 100%;
   z-index: 5;
+  padding: 1.5rem;
 }
 
 .logo{
@@ -192,6 +216,7 @@ header nav a{
 
 header nav a:hover {
   border-bottom: 1px solid #ED4997;
+  color: #ED4997;
 }
 
 /* header{
@@ -211,8 +236,9 @@ header nav a:hover {
 }
 
 .tagline h2{
-  background-color: white;
-  padding: 1rem;
+  /* background-color: #ED4997; */
+  padding: 0.5rem;
+  font-size: 2.5rem;
 }
 
 
@@ -236,15 +262,16 @@ header nav a:hover {
 }
 
 .menus p{
-  padding: 5rem;
+  padding: 1rem;
 }
 
 .menus p span{
   background-color: white;
-  padding: 1rem;
+  padding: 0.5rem;
   display: block;
   color: #ED4997;
   line-height: 1.25;
+  font-size: 1rem;
 }
 
 .cake-menu, .dessert-bar-menu, .catering-menu, .cakes {
@@ -281,7 +308,7 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 3%;
   padding-bottom: 5%;
   position: relative;
-  line-height: 1.7rem;
+  line-height: 1.8rem;
   font-size: 1.2rem;
 }
 
@@ -316,7 +343,7 @@ background-image: url("../img/dessert-bar.jpg");
 
 }
 .dessert-bar h2{
-  line-height: 1;
+  line-height: 1.25;
 }
 
 .platters{
@@ -378,18 +405,19 @@ background-image: url("../img/dessert-bar.jpg");
 /* CONTACT FORM */
 
 form * {
-  background-color: black;
+  background-color: #F6EAF0;
   display: block;
   width: 100%;
   outline: none;
   border: none;
   margin-bottom: 10px;
-  padding: 12px;
+  padding: 15px;
   border-radius: 3px;
-  color: white;
+  color: rgb(60,60,60);
 }
 
-form button {
+form button,
+form [type=submit] {
   background: white;
   border: solid 2px #ED4997;
   color: #ED4997
@@ -399,13 +427,12 @@ form textarea {
   height: 200px;
 }
 
-.footer{
-  background-color: black;
+.footer {
+  background-color: rgb(60,60,60);
   text-align: center;
-  color: #F6EAF0;
+  color: white;
   padding-top: 1%;
   padding-bottom: 1%;
-  border-top: solid 3px #ED4997;
 }
 
 /* blog posts */
@@ -436,4 +463,10 @@ form textarea {
 } */
 .post-block a:hover .post-image {
     /* if you want to do soemthing to the image on hover, add that here */
+}
+
+@media(max-width:1280px) {
+  .container {
+    margin: 0 5%;
+  }
 }

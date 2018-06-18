@@ -20,7 +20,7 @@
 
   </head>
 
-  <body>
+  <body class="menu-hidden">
 
     <header>
   <div class="grid-middle container">
@@ -33,9 +33,9 @@
     </div>
 
     <div class="col-6">
-      <h1 class="text-center">
+      <a class="text-center logo-text" href="/index">
         THE <span class="color-primary">COMFORT</span> CUPBOARD
-      </h1>
+      </a>
       <nav class="text-center sweet-sans color-black">
         <a href="/menus">Menus</a>
         <a href="/vegan-ice-cream">Ice Cream</a>
@@ -67,7 +67,7 @@
 
     <section class="about font background-primary color-white text-center">
       <div class="container-small">
-      <p><span class="color-black">THE COMFORT CUPBOARD is a POP-UP BAKERY</span>specialising in unique cakes and other sweet stuff. We don’t use refined sugar or dairy and use organic ingredients where possible. We specialize in gluten free + vegan and dabble in paleo so we pretty much have you all covered.</p>
+      <p><span class="color-black">THE COMFORT CUPBOARD is a POP-UP BAKERY</span> specialising in unique cakes and other sweet stuff. We don’t use refined sugar or dairy and use organic ingredients where possible. We specialize in gluten free + vegan and dabble in paleo so we pretty much have you all covered.</p>
 
       <p>After cooking professionally since 2005, qualifying in both Commercial Cookery and Patisserie (self-taught), after travelling the world gaining inspiration, and most importantly, after countless experiments in the kitchen, I baked my brainchild into a business!</p>
 
@@ -81,14 +81,14 @@
     </section>
 
     <section class="grid-middle menus text-center sweet-sans container">
-      <div class="col-4 cake-menu menus grid-middle-center">
-        <p class="banner-text"><span>CAKES MADE TO ORDER</span></p>
+      <div class="col-4_xs-12 cake-menu menus grid-middle-center">
+        <h2 class="banner-text"><span>CAKES MADE TO ORDER</span></h2>
       </div>
-      <div class="col-4 catering-menu menus grid-middle-center">
-        <p class="banner-text"><span>PLATTERS FOR YOUR NEXT EVENT</span></p>
+      <div class="col-4_xs-12 catering-menu menus grid-middle-center">
+        <h2 class="banner-text"><span>PLATTERS FOR YOUR NEXT EVENT</span></h2>
       </div>
-      <div class="col-4 dessert-bar-menu menus grid-middle-center">
-        <p class="banner-text"><span>DESSERT BAR COMING SOON!</span></p>
+      <div class="col-4_xs-12 dessert-bar-menu menus grid-middle-center">
+        <h2 class="banner-text"><span>DESSERT BAR COMING SOON!</span></h2>
       </div>
 
     </section>
@@ -102,19 +102,55 @@
     </div>
     </section>
 
-    <section class="grid"></div>
-      <div class="col-6">
-        <p>CONTACT FORM</p>
+    <section class="grid sweet-sans container-small contact margin-bottom">
+      <div class="col-12">
+        <div class="padding-all">
+        <h2>GET IN TOUCH!</h2>
         <form method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
-  <input type="text" name="name" placeholder="your name here">
-  <input type="email" name="email" placeholder="your email here">
+  <input type="text" name="name" placeholder="Your name here">
+  <input type="email" name="email" placeholder="Your email here">
 
-  <textarea name="message" placeholder="Say hello!"></textarea>
+  <textarea name="message" placeholder="Message"></textarea>
   <button type="submit">Send</button>
 </form>
 
       </div>
-      <div class="col-6"><p>SUSCRIBE</p></div>
+    </div>
+  </section>
+
+
+        <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+  <form action="https://thecomfortcupboard.us18.list-manage.com/subscribe/post?u=8b34ffd634bdc85ed5e7dba83&amp;id=5ad08ae414" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+  	 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
+
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8b34ffd634bdc85ed5e7dba83_5ad08ae414" tabindex="-1" value=""></div>
+    <!-- do not touch above this -->
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+
+
+  </form>
+</div>
+
+<!--End mc_embed_signup-->
+
+
+
+    <!-- <section class="grid"></div>
+      <div class="col-6">
+        <p>CONTACT FORM</p>
+        <form method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
+  <input type="text" name="name" placeholder="Your name here">
+  <input type="email" name="email" placeholder="Your email here">
+
+  <textarea name="message" placeholder="Message"></textarea>
+  <button type="submit">Send</button>
+</form>
+
+      </div>
+      <div class="col-6"><p>SUSCRIBE</p></div> -->
 
       <!-- <div class="col-4">
         <a href="https://www.facebook.com/thecomfortcupboard/?ref=bookmark" target="_blank">facebook</a>
@@ -126,12 +162,15 @@
 
     <!-- site footer goes here -->
     <footer class="footer">
-      <h6> We are located in Karratha, Western Australia
+      <h6> We are located in Karratha, Western Australia <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span>
       </h6>
     </footer>
 
 
+
+
     <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
   </body>

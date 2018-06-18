@@ -20,7 +20,7 @@
 
   </head>
 
-  <body>
+  <body class="menu-hidden">
 
     <header>
   <div class="grid-middle container">
@@ -33,9 +33,9 @@
     </div>
 
     <div class="col-6">
-      <h1 class="text-center">
+      <a class="text-center logo-text" href="/index">
         THE <span class="color-primary">COMFORT</span> CUPBOARD
-      </h1>
+      </a>
       <nav class="text-center sweet-sans color-black">
         <a href="/menus">Menus</a>
         <a href="/vegan-ice-cream">Ice Cream</a>
@@ -72,11 +72,11 @@
     <li>CHOCOLATE SALTED CARAMEL chocolate cake salted caramel chocolate frosting</li>
   </ul>
   <p>CAKES Mini $35 (6-8 serves) Medium $60-$70 (12-16 serves) Large $90-$105 (24 serves)</p>
-  <p>CUPCAKES 1/2 dozen $30-$35</p>
+  <p>CUPCAKES (1/2 dozen) $30-$35</p>
   <p>BABYCAKES (15) $35</p>
   <h2>LOADED CAKES</h2>
   <p>Load your cake with COOKIES + DONUTS! Prices start from $65.
-  <h3>1 WEEK'S NOTICE IS REQUIRED</h3>
+  <h3><span class="color-primary">1 WEEK'S NOTICE IS REQUIRED</span></h3>
   <p>Our cakes are decorated naturally with freeze dried raspberries and flowers, rose bud tea petals, coconut and cake crumb.</p>
   <h5>Freeze dried flowers incur an extra cost, please request when ordering.</h5>
   <h2><button type="button"><div class="color-primary">ORDER CAKES HERE!</div></h2>
@@ -85,7 +85,7 @@
 
 </section>
 
-<section class="background-primary sweet-sans dessert-bar text-center container-small">
+<section class="background-primary sweet-sans dessert-bar text-center container">
   <h2>
     DESSERT BAR<br>COMING SOON!</br>
   </h2>
@@ -100,13 +100,38 @@
     <h2><button type="button"><div class="color-primary">GET A QUOTE FOR YOUR NEXT EVENT</div></h2>
 </section>
 
+<section class="grid sweet-sans container-small contact margin-bottom">
+  <div class="col-12">
+    <div class="padding-all">
+    <h2>GET IN TOUCH!</h2>
+    <form method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
+  <input type="text" name="name" placeholder="Your name here">
+  <input type="email" name="email" placeholder="Your email here">
+
+  <textarea name="message" placeholder="Message"></textarea>
+  <button type="submit">Send</button>
+</form>
+
+  </div>
+</div>
+  <!-- <div class="col-6 background-secondary">
+    <div class="padding-all">
+    <h2>STOCKISTS</h2>
+    <ul>
+      <li> Empire6714 </li>
+      <li> Fiorita Deli </li>
+    </ul>
+  </div>
+</div> -->
+</section>
+
 <!-- <section class="grid"></div>
   <div class="col-4"><p>ORDER A CAKE OR CATERING</p>
     <form method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
-  <input type="text" name="name" placeholder="your name here">
-  <input type="email" name="email" placeholder="your email here">
+  <input type="text" name="name" placeholder="Your name here">
+  <input type="email" name="email" placeholder="Your email here">
 
-  <textarea name="message" placeholder="Say hello!"></textarea>
+  <textarea name="message" placeholder="Message"></textarea>
   <button type="submit">Send</button>
 </form>
 
@@ -123,12 +148,15 @@
 
     <!-- site footer goes here -->
     <footer class="footer">
-      <h6> We are located in Karratha, Western Australia
+      <h6> We are located in Karratha, Western Australia <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span>
       </h6>
     </footer>
 
 
+
+
     <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
   </body>

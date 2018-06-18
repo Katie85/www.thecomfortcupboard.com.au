@@ -20,7 +20,7 @@
 
   </head>
 
-  <body>
+  <body class="menu-hidden">
 
     <header>
   <div class="grid-middle container">
@@ -33,9 +33,9 @@
     </div>
 
     <div class="col-6">
-      <h1 class="text-center">
+      <a class="text-center logo-text" href="/index">
         THE <span class="color-primary">COMFORT</span> CUPBOARD
-      </h1>
+      </a>
       <nav class="text-center sweet-sans color-black">
         <a href="/menus">Menus</a>
         <a href="/vegan-ice-cream">Ice Cream</a>
@@ -126,27 +126,25 @@
    </ul>
 </section> -->
 
-<section class="grid sweet-sans container contact margin-bottom">
+<section class="grid sweet-sans container-small contact margin-bottom">
   <div class="col-6">
     <div class="padding-all">
     <h2>BECOME A SUPPLIER</h2>
     <form method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
-  <input type="text" name="name" placeholder="your name here">
-  <input type="email" name="email" placeholder="your email here">
+  <input type="text" name="name" placeholder="Your name here">
+  <input type="email" name="email" placeholder="Your email here">
 
-  <textarea name="message" placeholder="Say hello!"></textarea>
+  <textarea name="message" placeholder="Message"></textarea>
   <button type="submit">Send</button>
 </form>
 
   </div>
 </div>
   <div class="col-6 background-secondary">
-    <div class="padding-all">
+    <div class="padding-all text-centre">
     <h2>STOCKISTS</h2>
-    <ul>
-      <li> Empire6714 </li>
-      <li> Fiorita Deli </li>
-    </ul>
+    <p>Empire6714</p>
+    <p>Fiorita deli</p>
   </div>
 </div>
 </section>
@@ -159,12 +157,15 @@
 
     <!-- site footer goes here -->
     <footer class="footer">
-      <h6> We are located in Karratha, Western Australia
+      <h6> We are located in Karratha, Western Australia <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span>
       </h6>
     </footer>
 
 
+
+
     <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
     <script type="text/javascript" src="/js/main.js"></script>
 
   </body>
