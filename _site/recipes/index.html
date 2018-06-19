@@ -47,17 +47,21 @@
           <span class="burger-bottom"></span>
       </div>
       <div class="burger-menu">
-        <ul>
-          <li>
+          <nav>
             <a href="/menus">Menus</a>
-          </li>
-          <li>
             <a href="/vegan-ice-cream">Ice Cream</a>
-          </li>
-          <li>
             <a href="/recipes">Recipes</a>
-          </li>
-        <ul>
+          </nav>
+          <nav class="social">
+            <a href="https://www.instagram.com/thecomfortcupboard/" target="_blank">
+                  <i class="fab fa-instagram"></i>
+
+              </a>
+            <a href="https://www.facebook.com/thecomfortcupboard/?ref=bookmark" target="_blank">
+              <i class="fab fa-facebook-square"></i>
+            
+            </a>
+          </nav>
       </div>
     </div>
 
@@ -89,7 +93,7 @@
     
       <div class="col-6_sm-12 post-block">
           <a href="/food/recipes/party/2018/06/18/platter.html">
-          <div class="post-image" style="background-image:url(/img/platters.jpg);"></div>
+          <div class="post-image show-me" style="background-image:url(/img/platters.jpg);"></div>
           <h2>Platter</h2>
           <p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor...</p>
           </a>
@@ -97,7 +101,7 @@
     
       <div class="col-6_sm-12 post-block">
           <a href="/food/recipes/2018/01/01/third-blog.html">
-          <div class="post-image" style="background-image:url(/img/jap-bowl.jpg);"></div>
+          <div class="post-image show-me" style="background-image:url(/img/eastern-bowl.jpg);"></div>
           <h2>Third Blog Post</h2>
           <p><p>Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu....</p>
           </a>
@@ -105,7 +109,7 @@
     
       <div class="col-6_sm-12 post-block">
           <a href="/food/recipes/2018/01/01/second-blog.html">
-          <div class="post-image" style="background-image:url(/img/dessert-bar.jpg);"></div>
+          <div class="post-image show-me" style="background-image:url(/img/dessert-bar.jpg);"></div>
           <h2>Second Blog Post</h2>
           <p><p>Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu....</p>
           </a>
@@ -113,7 +117,7 @@
     
       <div class="col-6_sm-12 post-block">
           <a href="/food/recipes/2018/01/01/first-blog.html">
-          <div class="post-image" style="background-image:url(/img/eastern-bowl.jpg);"></div>
+          <div class="post-image show-me" style="background-image:url(/img/eastern-bowl.jpg);"></div>
           <h2>First Blog Post</h2>
           <p><p>Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu....</p>
           </a>
@@ -121,7 +125,7 @@
     
       <div class="col-6_sm-12 post-block">
           <a href="/food/recipes/2018/01/01/birthday-cake.html">
-          <div class="post-image" style="background-image:url(/img/cake-menu.jpg);"></div>
+          <div class="post-image show-me" style="background-image:url(/img/cake-menu.jpg);"></div>
           <h2>Birthday Cake</h2>
           <p><p>Ad quo animal legimus legendos. Ut eum veniam dicunt virtute, an noster voluptua convenire mei. At sed tollit scaevola, an maiorum repudiare per. Mei epicuri apeirian ne, usu iisque aliquam praesent ad, omnes ullamcorper in pri. Vitae quaeque mea cu....</p>
           </a>
@@ -166,6 +170,9 @@
 </section>
 
 <!-- Begin MailChimp Signup Form -->
+
+<div class="container-small text-center">
+  <h3> Subscribe for the latest recipes ... </h3>
 <div id="mc_embed_signup">
   <form action="https://thecomfortcupboard.us18.list-manage.com/subscribe/post?u=8b34ffd634bdc85ed5e7dba83&amp;id=5ad08ae414" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
@@ -179,6 +186,7 @@
 
   </form>
 </div>
+</div>
 
 <!--End mc_embed_signup-->
 
@@ -186,7 +194,7 @@
 
 <!-- <section class="grid"></div>
   <div class="col-4"><p>CONTACT FORM</p>
-    <form method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
+    <form id="contact-form" method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
   <input type="text" name="name" placeholder="Your name here">
   <input type="email" name="email" placeholder="Your email here">
 
@@ -205,8 +213,19 @@
 
     <!-- site footer goes here -->
     <footer class="footer">
-      <h6> We are located in Karratha, Western Australia <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span>
+      <h6> We are located in Karratha, Western Australia
+        <!-- <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span> -->
       </h6>
+      <nav class="social social-footer">
+        <a href="https://www.instagram.com/thecomfortcupboard/" target="_blank">
+              <i class="fab fa-instagram"></i>
+
+          </a>
+        <a href="https://www.facebook.com/thecomfortcupboard/?ref=bookmark" target="_blank">
+          <i class="fab fa-facebook-square"></i>
+
+        </a>
+      </nav>
     </footer>
 
 

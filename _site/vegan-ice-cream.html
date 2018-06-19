@@ -47,17 +47,21 @@
           <span class="burger-bottom"></span>
       </div>
       <div class="burger-menu">
-        <ul>
-          <li>
+          <nav>
             <a href="/menus">Menus</a>
-          </li>
-          <li>
             <a href="/vegan-ice-cream">Ice Cream</a>
-          </li>
-          <li>
             <a href="/recipes">Recipes</a>
-          </li>
-        <ul>
+          </nav>
+          <nav class="social">
+            <a href="https://www.instagram.com/thecomfortcupboard/" target="_blank">
+                  <i class="fab fa-instagram"></i>
+
+              </a>
+            <a href="https://www.facebook.com/thecomfortcupboard/?ref=bookmark" target="_blank">
+              <i class="fab fa-facebook-square"></i>
+            
+            </a>
+          </nav>
       </div>
     </div>
 
@@ -87,8 +91,8 @@
 
 <div class="container sweet-sans">
 <section class="grid passionfruit">
-  <div class="col-6 background-primary"></div>
-  <div class="col-6 padded-5">
+  <div class="col-6_sm-12 background-primary bg-image mobile-image-padding"></div>
+  <div class="col-6_sm-12 padded-5">
     <h2 class="color-primary">PASSIONFRUIT</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
     </p>
@@ -103,8 +107,8 @@
 </section>
 
 <section class="grid chocolate">
-  <div class="col-6 background-secondary"></div>
-  <div class="col-6 padded-5">
+  <div class="col-6_sm-12 background-secondary bg-image"></div>
+  <div class="col-6_sm-12 padded-5">
     <h2 class="color-primary">CHOCOLATE</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
     </p>
@@ -119,8 +123,8 @@
 </section>
 
 <section class="grid vanilla">
-  <div class="col-6 background-primary"></div>
-  <div class="col-6 padded-5">
+  <div class="col-6_sm-12 background-primary bg-image"></div>
+  <div class="col-6_sm-12 padded-5">
     <h2 class="color-primary">VANILLA</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
     </p>
@@ -144,11 +148,11 @@
    </ul>
 </section> -->
 
-<section class="grid sweet-sans container-small contact margin-bottom">
-  <div class="col-6">
+<section class="grid sweet-sans container-small no-padding contact margin-bottom">
+  <div class="col-6_sm-12">
     <div class="padding-all">
     <h2>BECOME A SUPPLIER</h2>
-    <form method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
+    <form id="contact-form" method="POST" action="https://formspree.io/katie@thecomfortcupboard.com.au">
   <input type="text" name="name" placeholder="Your name here">
   <input type="email" name="email" placeholder="Your email here">
 
@@ -158,7 +162,7 @@
 
   </div>
 </div>
-  <div class="col-6 background-secondary">
+  <div class="col-6_sm-12 background-secondary">
     <div class="padding-all text-centre">
     <h2>STOCKISTS</h2>
     <p>Empire6714</p>
@@ -175,8 +179,19 @@
 
     <!-- site footer goes here -->
     <footer class="footer">
-      <h6> We are located in Karratha, Western Australia <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span>
+      <h6> We are located in Karratha, Western Australia
+        <!-- <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span> -->
       </h6>
+      <nav class="social social-footer">
+        <a href="https://www.instagram.com/thecomfortcupboard/" target="_blank">
+              <i class="fab fa-instagram"></i>
+
+          </a>
+        <a href="https://www.facebook.com/thecomfortcupboard/?ref=bookmark" target="_blank">
+          <i class="fab fa-facebook-square"></i>
+
+        </a>
+      </nav>
     </footer>
 
 

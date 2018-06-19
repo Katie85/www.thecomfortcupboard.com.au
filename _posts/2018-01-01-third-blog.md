@@ -3,7 +3,7 @@ layout: post
 title: Third Blog Post
 meta-description:
 meta-keywords:
-image_path: /img/jap-bowl.jpg
+image_path: /img/eastern-bowl.jpg
 categories: [Food, Recipes]
 author: Katie Smith
 ---
