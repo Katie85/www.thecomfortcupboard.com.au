@@ -177,7 +177,7 @@ ul {
 .tags {
     text-decoration: none;
     padding: 0.8rem;
-    display: block;
+    display: inline-block;
     text-align:center;
     margin: 10px;
     border: 1px solid #ED4997;
