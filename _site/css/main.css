@@ -5,8 +5,9 @@
 body {
   color: black;
   /* font-family: 'Montserrat', sans-serif; */
-  font-family: 'sweet-sans';
-  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'sweet-sans'; */
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
   /* font-family: 'Source Sans Pro', sans-serif; */
   font-weight:  200;
   line-height: 1.6rem;
@@ -180,8 +181,9 @@ ul {
     display: inline-block;
     text-align:center;
     margin: 10px;
-    border: 1px solid #ED4997;
-    border-radius: 3px;
+    color: #ED4997;
+    /* border: 1px solid #ED4997;
+    border-radius: 3px; */
 }
 
 .tags:hover {
@@ -303,6 +305,7 @@ header nav a:hover {
 .cake-menu{
   background-image: url("../img/cake.jpg");
   margin-right: right: 2%;
+  text-decoration: none;
 }
 
 .dessert-bar-menu{
@@ -425,7 +428,7 @@ background-image: url("../img/dessert-bar.jpg");
 /* CONTACT FORM */
 
 form * {
-  background-color: #F6EAF0;
+  background-color: black;
   display: block;
   width: 100%;
   outline: none;
@@ -447,10 +450,11 @@ form textarea {
   height: 200px;
 }
 
+
 .footer {
-  background-color: black;
+  background-color: #F6EAF0;
   text-align: center;
-  color: white;
+  color: #ED4997;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
 }
