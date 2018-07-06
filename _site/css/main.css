@@ -177,11 +177,13 @@ ul {
 
 .tags {
     text-decoration: none;
-    padding: 0.8rem;
+    padding: 0.5rem;
     display: inline-block;
     text-align:center;
-    margin: 10px;
+    margin: 15px;
     color: black;
+    border: solid 1.5px black;
+    /* background-color: black; */
   }
 
 .tags:hover {
@@ -195,6 +197,7 @@ ul {
   padding: 1.5%;
   display: inline-block;
   border-radius: 2px;
+  text-decoration: none;
 }
 
 
@@ -419,7 +422,7 @@ background-image: url("../img/dessert-bar.jpg");
 /* CONTACT SECTION */
 
 .contact {
-  border: solid 1px #ED4997;
+  border: solid 1.5px #ED4997;
 }
 
 /* CONTACT FORM */
@@ -454,6 +457,7 @@ form textarea {
   color: #ED4997;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
+  margin-top: 3%;
 }
 
 .social-footer a{
@@ -477,7 +481,7 @@ form textarea {
 }
 
 .post-block { /* this is the block of content in the blog post loops */
-    padding: 3%;
+    padding: 0.5%;
     text-decoration: none;
 }
 /* this is the link inside the post block that links to the blog post itself, it has the title, picture etc inside it */

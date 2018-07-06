@@ -14,13 +14,13 @@ layout: default
 
   <!-- col-3 goes here for left align -->
 
-  <div class="col-12_sm-12 grid-top padded-3">
+  <div class="col-12_sm-12 grid-top padded-3 text-center">
     {% for post in paginator.posts %}
       <div class="col-4_sm-12 post-block">
           <a href="{{ post.url }}">
           <div class="post-image show-me" style="background-image:url({{post.image_path}});"></div>
           <h2>{{post.title}}</h2>
-          <!-- <p>{{post.excerpt | truncatewords: 40}}</p> -->
+          <p>{{post.excerpt | truncatewords: 15}}</p>
           </a>
       </div>
     {% endfor %}
@@ -29,6 +29,10 @@ layout: default
   <div class="col-3_sm-12 padded-3">
   </div>
 </section>
+
+
+
+
 
 {% include subscribe.html %}
 
