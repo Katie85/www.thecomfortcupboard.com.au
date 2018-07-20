@@ -441,7 +441,7 @@ form * {
 
 form button,
 form [type=submit] {
-  background: white;
+  background: #F6EAF0;
   border: solid 2px #ED4997;
   color: #ED4997
 }
@@ -455,7 +455,7 @@ form textarea {
   background-color: #F6EAF0;
   text-align: center;
   color: #ED4997;
-  padding-top: 1.5%;
+  padding-top: 10%;
   padding-bottom: 1.5%;
   margin-top: 3%;
 }
