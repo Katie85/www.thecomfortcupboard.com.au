@@ -30,24 +30,40 @@
     {{ content }}
 
     <!-- site footer goes here -->
-    <footer class="footer">
+    <footer class="grid footer">
+      <div class="col-4_sm-12 padded-5"> {% include contact-form.html %}</div>
 
+      <div class="col-4_sm-12 padded-5">
+        <h6> We are located in Karratha, Western Australia
+          <!-- <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span> -->
+        </h6>
+        <nav class="social social-footer">
+          <a href="https://www.instagram.com/thecomfortcupboard/" target="_blank">
+                <i class="fab fa-instagram"></i>
 
-      {% include subscribe.html %}
-
-      <h6> We are located in Karratha, Western Australia
-        <!-- <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span> -->
-      </h6>
-      <nav class="social social-footer">
-        <a href="https://www.instagram.com/thecomfortcupboard/" target="_blank">
-              <i class="fab fa-instagram"></i>
+            </a>
+          <a href="https://www.facebook.com/thecomfortcupboard/?ref=bookmark" target="_blank">
+            <i class="fab fa-facebook-square "></i>
 
           </a>
-        <a href="https://www.facebook.com/thecomfortcupboard/?ref=bookmark" target="_blank">
-          <i class="fab fa-facebook-square "></i>
+        </nav>
 
-        </a>
-      </nav>
+
+      </div>
+
+      <div class="col-4_sm-12 padded-5"> {% include subscribe.html %}
+
+      </div>
+
+
+
+
+
+
+
+
+
+
     </footer>
 
 
