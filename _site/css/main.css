@@ -46,6 +46,14 @@ h1, h2, h3, h4, header, nav .button, .tags {
     font-family: 'sweet-sans';
 }
 
+h1{
+
+}
+
+h2{
+
+}
+
 h5, h6 {
   margin: 0.5rem;
   font-size: 0.8rem;
@@ -274,17 +282,17 @@ header nav a:hover {
 /* tagline */
 
 .tagline{
-  background-image: url("/img/drip-sprinkle.jpg");
+  background-image: url("/img/half-sprinkle.jpg");
   min-height: 150vh;
   background-size: cover;
   color: #ED4997;
   padding: 20%;
 }
 
-.tagline h1{
+.tagline h1, .tagline h2{
   /* background-color: #ED4997; */
   padding: 0.5rem;
-  font-size: 10rem;
+  line-height: 1.8;
 }
 
 
@@ -527,6 +535,15 @@ form textarea {
   background-size: cover;
   margin-top: 4%;
   margin-bottom: 4%;
+  display: flex;
+  justify-content: space-around;
+  align-content: space-around;
+  flex-direction: column;
+  position: relative;
+}
+.logo-footer .social{
+  position: absolute;
+  bottom: 0;
 }
 
 .subscribe-background{
@@ -681,6 +698,10 @@ form textarea {
 
   .banner-text {
     line-height: 2rem;
+  }
+
+  footer > div {
+    min-height: 100vw;
   }
 
 }
