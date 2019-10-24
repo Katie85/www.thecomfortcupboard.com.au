@@ -274,7 +274,7 @@ header nav a:hover {
 /* tagline */
 
 .tagline{
-  background-image: url("../img/b-sprinkle.jpg");
+  background-image: url("/img/drip-sprinkle.jpg");
   min-height: 150vh;
   background-size: cover;
   color: #ED4997;
