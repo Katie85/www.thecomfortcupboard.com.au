@@ -3,7 +3,7 @@ layout: post
 title: Birthday Cake
 meta-description:
 meta-keywords:
-image_path: /img/cake-menu.jpg
+image_path: /img/funfetti.jpg
 categories:
   - FOOD
   - RECIPES
