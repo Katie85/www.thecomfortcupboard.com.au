@@ -31,12 +31,15 @@
 
     <!-- site footer goes here -->
     <footer class="grid footer">
-      <div class="col-4_sm-12 padded-5 contact-background"><h2 class="color-black">GET IN TOUCH</h2> {% include contact-form.html %}</div>
+      <div class="col-4_sm-12 padded-5 contact-background">
+        <h2 class="color-white">GET IN TOUCH</h2>
+         {% include contact-form.html %}
+       </div>
 
-      <div class="col-4_sm-12 padded-5 logo-footer"> 
-        <h6> Making fun foods less naughty since 2014
+      <div class="col-4_sm-12 padded-5 logo-footer">
+        <h5> Making fun foods less naughty since 2014
           <!-- <br><span class="color-white">katie@thecomfortcupboard.com.au</br></span> -->
-        </h6>
+        </h5>
         <nav class="social social-footer">
           <a href="https://www.instagram.com/thecomfortcupboard/" target="_blank">
                 <i class="fab fa-instagram"></i>
@@ -51,8 +54,11 @@
 
       </div>
 
-      <div class="col-4_sm-12 padded-5 subscribe-background"> {% include subscribe.html %}
-      <h2>We promise to never spam you, ever!</h2>
+      <div class="col-4_sm-12 padded-5 subscribe-background">
+        <div>
+         {% include subscribe.html %}
+         <h4>We promise not to spam you!</h4>
+       </div>
       </div>
 
 

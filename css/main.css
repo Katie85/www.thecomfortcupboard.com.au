@@ -289,10 +289,11 @@ header nav a:hover {
   padding: 20%;
 }
 
-.tagline h1, .tagline h2{
+.tagline h1, .tagline h3{
   /* background-color: #ED4997; */
   padding: 0.5rem;
-  line-height: 1.8;
+  line-height: 1.4;
+  font-size: 1.8rem;
 }
 
 
@@ -483,7 +484,7 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .contact-background {
-  background-image: url("../img/blue-sprinkle.jpg");
+  background-image: url("../img/funfetti.jpg");
   background-size: cover;
 }
 /* CONTACT FORM */
@@ -527,7 +528,8 @@ form textarea {
 }
 
 .social-footer i{
-  color: black;
+  color: pink;
+  font-size: 2.5rem;
 }
 
 .logo-footer{
@@ -536,21 +538,37 @@ form textarea {
   margin-top: 4%;
   margin-bottom: 4%;
   display: flex;
-  justify-content: space-around;
-  align-content: space-around;
+  justify-content: center;
+  align-content: center;
   flex-direction: column;
   position: relative;
 }
 .logo-footer .social{
   position: absolute;
   bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.logo-footer h6{
+
 }
 
 .subscribe-background{
   background-image: url("../img/petal-cake-2.jpg");
   background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  flex-direction: column;
+}
+.subscribe-background div{
+  padding-bottom: 2rem;
 }
 
+.subscribe-background h2{
+
+}
 
 
 
