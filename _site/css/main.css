@@ -292,8 +292,8 @@ header nav a:hover {
 .tagline h1, .tagline h3{
   /* background-color: #ED4997; */
   padding: 0.5rem;
-  line-height: 1.4;
-  font-size: 1.8rem;
+  line-height: 1.6;
+  font-size: 2.7rem;
 }
 
 
@@ -398,7 +398,7 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .dessert-bar{
-  color: white;
+  color: #ED4997;
   padding-top: 10%;
   padding-bottom: 10%;
   font-size: 2rem;
@@ -429,7 +429,7 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 5%;
   padding-bottom: 5%;
   text-align: center;
-  line-height: 1.7rem;
+  line-height: 2.3rem;
   margin-top: 0%;
 }
 
@@ -445,7 +445,7 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .chocolate {
-  background-image: url("../img/icecream-bunch.jpg");
+  background-image: url("../img/sandwich.jpg");
   background-size: cover;
   background-position: center;
   margin-top: 0%;
@@ -457,6 +457,11 @@ background-image: url("../img/dessert-bar.jpg");
 .nutritional {
   position: relative;
   font-size: 1rem;
+}
+
+.nutritional-chocolate{
+  background-image: url("../img/icecream-bunch.jpg");
+  background-size: cover;
 }
 
 .nutritional li{
@@ -515,9 +520,9 @@ form textarea {
 
 
 .footer {
-  background-color: #F6EAF0;
+  background-color: #ED4997;
   text-align: center;
-  color: #F6EAF0;
+  color: white;
   padding-top: 0%;
   padding-bottom: 0%;
 }
@@ -533,10 +538,9 @@ form textarea {
 }
 
 .logo-footer{
-  background-image: url("../img/FB-LOGO-TRANS.png");
-  background-size: cover;
   margin-top: 4%;
   margin-bottom: 4%;
+  line-height: 3rem;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -555,7 +559,7 @@ form textarea {
 }
 
 .subscribe-background{
-  background-image: url("../img/petal-cake-2.jpg");
+  background-image: url("../img/turkish.jpg");
   background-size: cover;
   display: flex;
   justify-content: flex-end;
