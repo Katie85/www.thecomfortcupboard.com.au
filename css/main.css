@@ -445,12 +445,13 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .chocolate {
-  background-image: url("../img/sandwich.jpg");
+  background-image: url("../img/icecream-bunch.jpg");
   background-size: cover;
   background-position: center;
   margin-top: 0%;
   line-height: 1.7rem;
-  padding:60%;
+  padding:40%;
+  padding-bottom: 70%;
 
 }
 
@@ -460,8 +461,6 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .nutritional-chocolate{
-  background-image: url("../img/icecream-bunch.jpg");
-  background-size: cover;
 }
 
 .nutritional li{
@@ -489,7 +488,7 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .contact-background {
-  background-image: url("../img/funfetti.jpg");
+  background-image: url("../img/funfetti-babies.jpg");
   background-size: cover;
 }
 /* CONTACT FORM */
