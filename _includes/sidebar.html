@@ -8,19 +8,14 @@
 <div class="text-center">
 
   <!-- <h2 class="featured-text">SERIES</h2> -->
-<section class="tag-section">
-  <select>
-    {% for category in site.categories %}
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-      <option value="/{{ category_name }}" class="tags">{{ category_name }}</option>
-    {% endfor %}
-</select>
-  <nav>
-  {% for category in site.categories %}
-  {% capture category_name %}{{ category | first }}{% endcapture %}
-    <a href="/{{ category_name }}" class="tags">{{ category_name }}</a>
-  {% endfor %}
-  </nav>
+<section class="tag-section tags:hover">
+
+<nav>
+ {% for category in site.categories %}
+ {% capture category_name %}{{ category | first }}{% endcapture %}
+   <a href="/{{ category_name }}" class="tags">{{ category_name }}</a>
+ {% endfor %}
+ </nav>
 </section>
 </div>
 
@@ -29,3 +24,11 @@
     <img src="/img/dessert-bar.jpg">
   </a>
 </div> -->
+
+
+<!--<select>
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+    <option value="/{{ category_name }}" class="tags">{{ category_name }}</option>
+  {% endfor %}
+</select>
