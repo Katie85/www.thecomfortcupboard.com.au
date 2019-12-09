@@ -194,15 +194,16 @@ ul {
     text-align:center;
     margin: 15px;
     margin-top: 5%;
-    color: black;
+    color: WHITE;
     font-family: 'Open Sans', sans-serif;
+    background-color: #ED4997;
 
     /* border: solid 1.5px black; */
     /* background-color: black; */
   }
 
 .tags:hover {
-  color: #ED4997;
+  color: #black;
   /* background-color: #ED4997; */
 ;
   /* transition: 0.5s all; */
@@ -292,6 +293,8 @@ header nav a:hover {
   padding: 0.5rem;
   line-height: 1.6;
   font-size: 2.7rem;
+  display: inline-block;
+  background-color: #ED4997;
 }
 
 
@@ -453,11 +456,20 @@ background-image: url("../img/dessert-bar.jpg");
 
 }
 
+.icecream-sub{
+
+}
+
 .info{
   line-height: 3rem;
   padding-top: 5%;
   padding-bottom: 5%;
-  text-decoration: none;
+}
+
+.info-tab{
+  display: inline-block;
+  background-color: black;
+  padding: 2%;
 }
 
 .nutritional {
