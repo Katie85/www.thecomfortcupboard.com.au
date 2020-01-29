@@ -47,4 +47,23 @@ $('a[href*="#"]')
       }
     }
   });
+  $(".team-member").click(function(){
+     var target = $(this).attr("data-target");
+    $(".popup").each(function(){
+      if($(this).attr("data-pop") == target){
+        $(this).addClass("onscreen");
+      }});
+   $(".overlay").addClass("onscreen");
+ });
+
+$(".overlay").click(function(){
+$(".popup").removeClass("onscreen");
+   $(".overlay").removeClass("onscreen");
+ });
+
+
+$(".popupX").click(function(){
+  $(".popup").removeClass("onscreen");
+  $(".overlay").removeClass("onscreen");
+})
 });

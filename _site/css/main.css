@@ -489,6 +489,54 @@ background-image: url("../img/dessert-bar.jpg");
   font-size: 0.8rem;
 }
 
+.button-n{
+  padding:5%;
+  border:1px solid;
+  display:inline-block;
+  margin:5%;
+}
+
+.popup {
+  position: fixed;
+  left: 100vw;
+  z-index: 5;
+  padding: 2rem;
+  background-color: white;
+}
+.popup.onscreen {
+  left: 20%;
+  right: 20%;
+  top: 20%;
+}
+
+.overlay {
+  background-color: white;
+  transition: background-color 1s;
+  position: fixed;
+}
+
+.overlay.onscreen {
+  background-color: grey;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+polygon, path{
+  fill:rgba(0,0,0,0);
+  stroke:black;
+  stroke-width:5;
+}
+
+.popupX {
+    position:absolute;
+  top:1rem;
+  right:1rem;
+  width:1rem;
+  padding: 1rem;
+}
+
 
 
 
