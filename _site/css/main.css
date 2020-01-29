@@ -196,11 +196,12 @@ ul {
     padding: 0.5rem;
     display: inline-block;
     text-align:center;
+    border: 1px solid #ED4997;
     margin: 15px;
     margin-top: 5%;
     color: #ED4997;
     font-family: 'Open Sans', sans-serif;
-    background-color: #F6EAF0;
+    background-color: white;
 
     /* border: solid 1.5px black; */
     /* background-color: black; */
@@ -222,7 +223,7 @@ ul {
 
 .button {
   background-color: #fff;
-  padding: 1.5%;
+  padding top: 14px 28px;
   display: inline-block;
   border-radius: 2px;
   text-decoration: none;
