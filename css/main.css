@@ -51,6 +51,7 @@ h1{
 }
 
 h2{
+  line-height: 1.7rem;
 
 }
 
@@ -502,7 +503,7 @@ background-image: url("../img/dessert-bar.jpg");
   left: 100vw;
   z-index: 5;
   padding: 2rem;
-  background-color: white;
+  background-color: WHITE;
 }
 .popup.onscreen {
   left: 20%;
@@ -517,7 +518,7 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .overlay.onscreen {
-  background-color: grey;
+  background-color: WHITE;
   top:0;
   left:0;
   bottom:0;

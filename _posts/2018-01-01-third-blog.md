@@ -4,7 +4,7 @@ title: Third Blog Post
 meta-description:
 meta-keywords:
 image_path: /img/eastern-bowl.jpg
-categories: [FOOD, RECIPES]
+categories: [RECIPES, EGG FREE]
 author: Katie Smith
 ---
 
