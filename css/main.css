@@ -492,10 +492,10 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .button-n{
-  padding:5%;
+  padding:2%;
   border:1px solid;
   display:inline-block;
-  margin:5%;
+  margin:3%;
 }
 
 .popup {
@@ -503,7 +503,7 @@ background-image: url("../img/dessert-bar.jpg");
   left: 100vw;
   z-index: 5;
   padding: 2rem;
-  background-color: WHITE;
+  background-color: rgba(0,0,0,0);
 }
 .popup.onscreen {
   left: 20%;
