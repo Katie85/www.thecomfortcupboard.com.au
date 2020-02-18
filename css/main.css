@@ -71,7 +71,7 @@ ul {
 }
 
 .lh{
-  line-height: 1.7rem;
+  line-height: 2.7rem;
 }
 /* helpers-generic */
 
@@ -406,12 +406,15 @@ background-image: url("../img/dessert-bar.jpg");
 }
 
 .dessert-bar{
-  color: #ED4997;
+  color: white;
   padding-top: 10%;
-  padding-bottom: 10%;
+  padding-bottom: 50%;
   font-size: 2rem;
   margin-top: %;
   margin-bottom: %;
+  background-image: url("../img/donutdelight.jpg");
+  background-size: cover;
+
 
 }
 .dessert-bar h2{
