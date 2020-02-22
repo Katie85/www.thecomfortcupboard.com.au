@@ -5,12 +5,12 @@ meta-description:
 meta-keywords:
 image_path: /uploads/turkish.jpg
 categories:
-  - RECIPES
   - DAIRY FREE
   - GLUTEN FREE
   - REFINED SUGAR FREE
   - VEGAN
   - EGG FREE
+  - RECIPES
 author: Katie Smith
 ---
 
