@@ -14,7 +14,7 @@ categories:
 author: Katie Smith
 ---
 
-This brittle features on two of our Dessert Bar dishes and completely makes them. Eat it straight up or bash it with a hammer (not kidding) to create a super texture-y topping for your desserts.
+Coconut Brittle features on two of our Dessert Bar dishes and completely makes them. Eat it straight up or bash it with a hammer (not kidding) to create a super texture-y topping for your desserts.
 
 1 cup coconut sugar
 
