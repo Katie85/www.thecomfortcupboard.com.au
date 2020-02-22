@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All pink everything!
+title: ALL PINK EVERYTHING
 meta-description:
 meta-keywords:
 image_path: /uploads/logo-repeat.jpg
