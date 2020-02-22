@@ -3,7 +3,7 @@ layout: post
 title: All pink everything!
 meta-description:
 meta-keywords:
-image_path:
+image_path: /uploads/logo-repeat.jpg
 categories:
   - BLOG
 author: Katie Smith
