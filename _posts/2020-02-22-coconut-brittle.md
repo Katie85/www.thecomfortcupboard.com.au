@@ -8,9 +8,9 @@ categories:
   - DAIRY FREE
   - EGG FREE
   - GLUTEN FREE
-  - RECIPES
   - REFINED SUGAR FREE
   - VEGAN
+  - RECIPES
 author: Katie Smith
 ---
 
