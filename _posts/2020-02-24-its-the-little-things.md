@@ -5,10 +5,7 @@ meta-description:
 meta-keywords:
 image_path: /uploads/fullsizeoutput-59f.jpeg
 categories:
-  - REFINED SUGAR FREE
-  - DAIRY FREE
-  - VEGAN
-  - GLUTEN FREE
+  - BLOG
 author: Katie Smith
 ---
 
