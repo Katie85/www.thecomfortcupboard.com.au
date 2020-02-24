@@ -10,7 +10,6 @@ categories:
   - REFINED SUGAR FREE
   - VEGAN
   - EGG FREE
-  - RECIPES
 author: Katie Smith
 ---
 
