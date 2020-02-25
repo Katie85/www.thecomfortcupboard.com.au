@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include sidebar.html %}
+
+
+<!-- <section class="text-center container color-white recipes">
+
+  <h1>RECIPES
+  </h1>
+</section> -->
+<section class="grid container">
+
+  <!-- col-3 goes here for left align -->
+
+  <div class="col-12_sm-12 grid-top padded-3 text-center"><!--<h2 class="color-BLACK">LATEST</h2>--></div>
+    {% for post in site.posts %}
+    <!-- <div class="col-12_sm-12 post-block"> -->
+      <div class="col-6_sm-12 post-block">
+          <a href="{{ post.url }}">
+          <div class="post-image show-me" style="background-image:url({{post.image_path}});"></div>
+          <h2>{{post.title}}</h2>
+          <p>{{post.excerpt | truncatewords: 30}}</p>
+          </a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="col-3_sm-12 padded-3">
+  </div>
+</section>
