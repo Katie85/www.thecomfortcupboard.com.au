@@ -21,6 +21,7 @@ layout: default
           <a href="{{ post.url }}">
           <div class="post-image show-me" style="background-image:url({{post.image_path}});"></div>
           <h2>{{post.title}}</h2>
+          <p class="post-meta">{{post.date | date_to_string }}</p>
           <p>{{post.excerpt | truncatewords: 30}}</p>
           </a>
       </div>
