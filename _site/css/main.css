@@ -3,7 +3,7 @@
 }
 
 body {
-  color: black;
+  color: #1d1d1d;
   /* font-family: 'Montserrat', sans-serif; */
   /* font-family: 'sweet-sans'; */
   /* font-family: 'Lato', sans-serif; */
@@ -315,6 +315,7 @@ header nav a:hover {
   padding-bottom: 2%;
   font-size: 1.2rem;
   text-align: left;
+  color: #1d1d1d;
 }
 
 /* MENUS */
@@ -659,7 +660,7 @@ form textarea {
 .blog-post{
   max-width: 900px;
   margin: auto;
-  color: black;
+  color: #1d1d1d;
 }
 
 .post-image { /* this is the small image on the recipes page or any blog loops */
