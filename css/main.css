@@ -416,6 +416,10 @@ background-image: url("../img/dessert-bar.jpg");
   background-image: url("../img/browniebliss.jpg");
   background-size: cover;
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column
 
 
 }
