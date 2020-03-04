@@ -411,17 +411,13 @@ background-image: url("../img/dessert-bar.jpg");
   padding-top: 10%;
   padding-bottom: 50%;
   font-size: 2rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
   margin-top: %;
   margin-bottom: %;
-  background-image: url("../img/donutdelight.jpg");
+  background-image: url("../img/choux.jpg");
   background-size: cover;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-content: center;
-  flex-direction: column
-
-
+  
 }
 .dessert-bar h2{
   line-height: 1.25;
