@@ -377,8 +377,8 @@ background-image: url("../img/dessert-bar.jpg");
 
 .cakes{
   background-image: url("../img/blue-sprinkle.jpg");
-  padding-top: 10%;
-  padding-bottom: 5%;
+  padding-top: 20%;
+  padding-bottom: 20%;
   padding-left: 3%;
   position: relative;
   line-height: 1.8rem;
@@ -408,7 +408,7 @@ background-image: url("../img/dessert-bar.jpg");
 
 .dessert-bar{
   color: white;
-  padding-top: 15%;
+  padding-top: 20%;
   padding-bottom: 50%;
   font-size: 2rem;
   line-height: 1.8rem;
