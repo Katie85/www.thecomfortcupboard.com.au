@@ -10,4 +10,4 @@ categories:
 author: Katie Smith
 ---
 
-I love pink, because, PINK and i just wanted to let you know that you'll be seeing it a lot around here and i'm not sorry about it.
+I love pink, because, PINK. I &nbsp;just wanted to let you know that you'll be seeing it a lot around here and i'm not sorry about it.
