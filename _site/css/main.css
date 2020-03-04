@@ -377,7 +377,7 @@ background-image: url("../img/dessert-bar.jpg");
 
 .cakes{
   background-image: url("../img/blue-sprinkle.jpg");
-  padding-top: 3%;
+  padding-top: 10%;
   padding-bottom: 5%;
   padding-left: 3%;
   position: relative;
@@ -408,7 +408,7 @@ background-image: url("../img/dessert-bar.jpg");
 
 .dessert-bar{
   color: white;
-  padding-top: 10%;
+  padding-top: 15%;
   padding-bottom: 50%;
   font-size: 2rem;
   line-height: 1.8rem;
@@ -417,7 +417,7 @@ background-image: url("../img/dessert-bar.jpg");
   margin-bottom: %;
   background-image: url("../img/choux.jpg");
   background-size: cover;
-  
+
 }
 .dessert-bar h2{
   line-height: 1.25;
