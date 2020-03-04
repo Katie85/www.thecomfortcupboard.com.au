@@ -13,7 +13,7 @@ categories:
 author: Katie Smith
 ---
 
-Turkish Delight is hands down one of my favourite sweets. I could literally eat it for breakfast lunch and dinner. This is my attempt at replicating the classic Turkish Delight chocolate bar. I think it comes pretty damn close to its deliciousness and this version is much better for you.
+Turkish Delight is hands down one of my favourite sweets. I could literally eat it for breakfast lunch and dinner (I wouldn't but i could). This is my attempt at replicating the classic Turkish Delight chocolate bar. I think it comes pretty damn close to its deliciousness and this version is much better for you.
 
 ### INGREDIENTS
 
