@@ -11,7 +11,7 @@ author: Katie Smith
 
 The process is long; it's continuous; and it's always evolving.
 
-I started building this website in July 2018 when I flew to Bali with my nearly 3 year old little girl and 20 weeks pregnant with my baby boy to attend a 10 day coding retreat at IOC.
+I started building this website in July 2018 when I flew to Bali with my nearly 3 year old little girl and 20 weeks pregnant with my baby boy to attend a 10 day coding retreat at [https://www.instituteofcode.com/](https://www.instituteofcode.com/).
 
 The website I started building back then had such a different vibe and direction to the one it is now, but i know it’s exactly where it needs to be, right now. Ideas need time to grow and evolve and they will continue to grow and evolve even when they’re “finished”.
 
