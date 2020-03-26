@@ -62,4 +62,4 @@ Make the chocolate topping by whisking the cacao powder and maple together then 
 
 Chop the remaining 2 tbsps of pistachios and sprinkle on top with the sesame seeds. Chill until the chocolate has set.
 
-Cut as desired. I like to cut mine small so i can eat "more" but feel less guilty.
+Cut as desired. I like to cut mine small so i can eat "more" and feel less guilty.
