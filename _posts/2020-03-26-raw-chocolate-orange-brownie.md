@@ -22,9 +22,7 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 
 ## INGREDIENTS
 
-<br>&nbsp;
-
-**BASE**
+### <br>**BASE**
 
 1 1/3 cups + 2tbsp unsalted, shelled, raw pistachios, divided
 
@@ -42,7 +40,7 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 
 &nbsp;
 
-**CHOCOLATE TOPPING&nbsp;**
+### **CHOCOLATE TOPPING&nbsp;**
 
 1/2 cup cacao powder
 
@@ -52,7 +50,7 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 
 &nbsp;
 
-**METHOD**
+### **METHOD**
 
 Whiz the pistachios in a food processor until broken down by not super fine.
 
