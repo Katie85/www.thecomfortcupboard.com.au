@@ -16,7 +16,7 @@ author: Katie Smith
 
 The inspiration for this recipe came when I was searching for a bliss ball recipe to make with my little girl that had pistachios in it as I had a heap to use up. Enter: ‘Salted Chocolate Tahini Bliss Balls’ from Bon Appetit magazine&nbsp;[https://www.bonappetit.com/recipe/salted-chocolate-tahini-bliss-balls](https://www.bonappetit.com/recipe/salted-chocolate-tahini-bliss-balls).
 
-Someone asked me once about the etiquette when using other’s recipes and my advice was that recipes are there to inspire and if you do use someone’s recipe then make sure you credit them. Yes, I’ve tweaked this one slightly to add my own spin on it by adding orange essential oil and changing the form of it to a brownie, with a chocolate topping, but it’s definitely not “mine”. It’s bloody delicious though and the flavours get better as the days go on. You’re welcome.
+Someone asked me once about the etiquette when using other’s recipes and my advice was that recipes are there to inspire and if you do use someone’s recipe then just make sure you credit them. Yes, I’ve tweaked this one slightly to add my own spin on it by adding orange essential oil and changing the form of it to a brownie, with a chocolate topping, but it’s definitely not “mine”. It’s bloody delicious though and the flavours get better as the days go on. You’re welcome.
 
 &nbsp;
 
