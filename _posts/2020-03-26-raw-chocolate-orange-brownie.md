@@ -56,7 +56,7 @@ Whiz the pistachios in a food processor until broken down by not super fine.
 
 Add the rest of the ingredients and whiz until combined.&nbsp;
 
-Press into lined tin (I used an 18x18cm), then chill until firm.
+Press into a lined tin (I used an 18x18cm), then chill until firm.
 
 Make the chocolate topping by whisking the cacao powder and maple together then slowly adding the coconut oil. Whisk until silky smooth. Pour on top of the base.&nbsp;
 
