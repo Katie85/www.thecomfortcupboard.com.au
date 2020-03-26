@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RAW CHOCOLOATE ORANGE BROWNIE
+title: RAW CHOCOLATE ORANGE BROWNIE
 meta-description:
 meta-keywords:
 image_path: /uploads/thumbnail-image.jpg
