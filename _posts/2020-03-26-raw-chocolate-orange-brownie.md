@@ -22,7 +22,9 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 
 ## INGREDIENTS
 
-<br>**BASE**
+<br>&nbsp;
+
+**BASE**
 
 1 1/3 cups + 2tbsp unsalted, shelled, raw pistachios, divided
 
@@ -38,6 +40,8 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 
 2 drops Doterra Wild Orange essential oil
 
+&nbsp;
+
 **CHOCOLATE TOPPING&nbsp;**
 
 1/2 cup cacao powder
@@ -45,6 +49,8 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 1/2 cup coconut oil
 
 2 tbsp maple syrup
+
+&nbsp;
 
 **METHOD**
 
@@ -58,4 +64,4 @@ Make the chocolate topping by whisking the cacao powder and maple together then 
 
 Chop the remaining 2 tbsps of pistachios and sprinkle on top with the sesame seeds. Chill until the chocolate has set.
 
-Cut as desired. I like to cut mine small so ican eat "more" but feel less guilty.
+Cut as desired. I like to cut mine small so i can eat "more" but feel less guilty.
