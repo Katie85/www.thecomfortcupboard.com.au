@@ -46,6 +46,8 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 
 2 tbsp maple syrup
 
+**METHOD**
+
 Whiz the pistachios in a food processor until broken down by not super fine.
 
 Add the rest of the ingredients and whiz until combined.&nbsp;
