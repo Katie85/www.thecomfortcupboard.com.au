@@ -26,7 +26,7 @@ Someone asked me once about the etiquette when using other’s recipes and my ad
 
 ### <br>**BASE**
 
-1 1/3 cups + 2tbsp unsalted, shelled, raw pistachios, divided
+1 1/3 cups + 2 tbsp unsalted, shelled, raw pistachios, divided
 
 8 medjool dates, pitted
 
