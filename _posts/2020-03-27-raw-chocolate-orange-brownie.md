@@ -18,7 +18,7 @@ The inspiration for this recipe came when I was searching for a bliss ball recip
 
 [https://www.bonappetit.com/recipe/salted-chocolate-tahini-bliss-balls](https://www.bonappetit.com/recipe/salted-chocolate-tahini-bliss-balls)
 
-Someone asked me once about the etiquette when using other’s recipes and my advice was that recipes are there to inspire and if you do use someone’s recipe then just make sure you credit them. Yes, I’ve tweaked this one slightly to add my own spin on it by adding orange essential oil and changing the form of it to a brownie, with a chocolate topping, but it’s definitely not “mine”. It’s bloody delicious though and the flavours get better as the days go on. You’re welcome.
+Someone asked me once about the etiquette when using other’s recipes and my advice was that recipes are there to inspire and if you do use someone’s recipe then just make sure you credit them. Yes, I’ve tweaked this one slightly to add my own spin on it by adding orange essential oil and changing the form of it to a brownie, and added a chocolate topping, but it’s definitely not “mine”. It’s bloody delicious though and the flavours get better as the days go on. You’re welcome.
 
 &nbsp;
 
@@ -62,6 +62,8 @@ Press into a lined tin (I used an 18x18cm), then chill until firm.
 
 Make the chocolate topping by whisking the cacao powder and maple together then slowly adding the coconut oil. Whisk until silky smooth. Pour on top of the base.&nbsp;
 
-Chop the remaining 2 tbsps of pistachios and sprinkle on top with the sesame seeds. Chill until the chocolate has set.
+Chop the remaining 2 tbsps of pistachios and sprinkle on top with the sesame seeds. Chill in the fridge or freezer until the chocolate has set.
 
 Cut as desired. I like to cut mine small so i can eat "more" and feel less guilty.
+
+Store in the fridge or freezer.
