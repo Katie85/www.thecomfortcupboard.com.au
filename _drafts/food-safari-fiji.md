@@ -48,6 +48,14 @@ It's best to let go of usual "food rules". It's too hard to do gluten free, dair
 
 It's ok to turn a blind eye (\*it was hard) when your 4.5 year old wants a chocolate chip muffin and a chocolate croissant most mornings for breakfast, because, holidays\! I mean, who am i to deprive her of the pleasures of life.
 
+Be armed with snacks everywhere you go. Like, everywhere. Whingy kids are easily remedied with snacks.
+
+Nothing makes me happier than travelling to new places and experiencing their food culture, and there's no greater feeling than when your kids experiment with new and different foods and love them.
+
+Hot chips&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
