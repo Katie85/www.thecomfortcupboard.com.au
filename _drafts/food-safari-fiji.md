@@ -44,6 +44,8 @@ Zaine: "Spicy chippies" salt and pepper dalo chips (dalo is a local root vegetab
 
 Casper: I'm gonna say hot chips. And papaya.
 
+![](/uploads/image-2.jpeg){: width="2160" height="3840"}
+
 It's best to let go of usual "food rules". It's too hard to do gluten free, dairy free and refined sugar free the whole time when travelling, AND, it makes it fun free when you can't try all the new things on offer; so for us (And when i say us i mean the kids and i. my husband is definitely not down for this way of eating.) it goes somewhat out the window as it's more a choice to eat this way and not a necessity.
 
 It's ok to turn a blind eye (\*it was hard) when your 4.5 year old wants a chocolate chip muffin and a chocolate croissant most mornings for breakfast, because, holidays\! I mean, who am i to deprive her of the pleasures of life.
@@ -51,6 +53,8 @@ It's ok to turn a blind eye (\*it was hard) when your 4.5 year old wants a choco
 Be armed with snacks everywhere you go. Like, everywhere. Whingy kids are easily remedied with snacks.
 
 Nothing makes me happier than travelling to new places and experiencing their food culture, and there's no greater feeling than when your kids experiment with new and different foods and love them.
+
+![](/uploads/dalo.jpeg){: width="3024" height="4032"}
 
 Hot chips&nbsp;
 
