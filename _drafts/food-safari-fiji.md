@@ -60,6 +60,8 @@ Hot chips are good no matter where are in the world.
 
 Travelling frees your mind and makes room for more creativity. (I knew this already but love being reminded of it.)
 
+And when your baby doesn't want to nap, which means you don't get to nap, but you're so bloody tired because your family of four are sleeping in a one room bungalow, and you didn't get much sleep the night before you just remember that, you're on a tropical island, in the South Pacific with your beautiful family, stayng in a bungalow, right on the beach, and life really couldn't get much better.
+
 &nbsp;
 
 &nbsp;
