@@ -56,7 +56,11 @@ Nothing makes me happier than travelling to new places and experiencing their fo
 
 ![](/uploads/dalo.jpeg){: width="3024" height="4032"}
 
-Hot chips&nbsp;
+Hot chips are good no matter where are in the world.
+
+Travelling frees your mind and makes room for more creativity. (I knew this already but love being reminded of it.)
+
+&nbsp;
 
 &nbsp;
 
