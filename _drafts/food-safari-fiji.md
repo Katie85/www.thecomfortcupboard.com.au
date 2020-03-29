@@ -22,17 +22,13 @@ These are just a few of the things we've heard around travelling with young kids
 
 ![](/uploads/airport.jpeg){: width="3024" height="4032"}
 
-&nbsp;
-
 ### **Food things and insights from this trip…**
 
 &nbsp;
 
 ![](/uploads/image-6.jpeg){: width="3024" height="4032"}
 
-### 'Everywhere we go is a food safari.'
-
-&nbsp;
+### &nbsp;
 
 **BEST THINGS WE ATE**
 
@@ -44,7 +40,9 @@ Zaine: "Spicy chippies" salt and pepper dalo chips (dalo is a local root vegetab
 
 Casper: I'm gonna say hot chips. And papaya.
 
-![](/uploads/image-2.jpeg){: width="2160" height="3840"}
+### 'Everywhere we go is a food safari.'
+
+&nbsp;
 
 It's best to let go of usual "food rules". It's too hard to do gluten free, dairy free and refined sugar free the whole time when travelling, AND, it makes it fun free when you can't try all the new things on offer; so for us (And when i say us i mean the kids and i. my husband is definitely not down for this way of eating.) it goes somewhat out the window as it's more a choice to eat this way and not a necessity.
 
