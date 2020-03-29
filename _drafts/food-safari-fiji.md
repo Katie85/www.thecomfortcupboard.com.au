@@ -44,9 +44,9 @@ Casper: I'm gonna say hot chips. And papaya.
 
 &nbsp;
 
-It's best to let go of usual "food rules". It's too hard to do gluten free, dairy free and refined sugar free the whole time when travelling, AND, it makes it fun free when you can't try all the new things on offer; so for us (And when i say us i mean the kids and i. my husband is definitely not down for this way of eating.) it goes somewhat out the window as it's more a choice to eat this way and not a necessity.
+It's best to let go of usual "food rules". It's too hard to do gluten free, dairy free and refined sugar free the whole time when travelling, AND, it makes it fun free when you can't try all the new things on offer; so for us (and when i say us i mean the kids and I as my husband is definitely not down for this way of eating) it goes somewhat out the window as it's more a choice to eat this way and not a necessity.
 
-It's ok to turn a blind eye (\*it was hard) when your 4.5 year old wants a chocolate chip muffin and a chocolate croissant most mornings for breakfast, because, holidays\! I mean, who am i to deprive her of the pleasures of life.
+It's ok to turn a blind eye (\*it was hard) when your 4.5 year old wants a chocolate chip muffin and a chocolate croissant most mornings for breakfast, because, holidays\! And who am i to deprive her of life's pleasures anyway.
 
 Be armed with snacks everywhere you go. Like, everywhere. Whingy kids are easily remedied with snacks.
 
@@ -54,11 +54,11 @@ Nothing makes me happier than travelling to new places and experiencing their fo
 
 ![](/uploads/dalo.jpeg){: width="3024" height="4032"}
 
-Hot chips are good no matter where are in the world.
+Hot chips are good no matter where you are in the world.
 
 Travelling frees your mind and makes room for more creativity. (I knew this already but love being reminded of it.)
 
-And when your baby doesn't want to nap, which means you don't get to nap, but you're so bloody tired because your family of four are sleeping in a one room bungalow, and you didn't get much sleep the night before you just remember that, you're on a tropical island, in the South Pacific with your beautiful family, staying in a bungalow, right on the beach, and life really couldn't get much better.
+And when your baby doesn't want to nap, which means you don't get to nap, but you're so bloody tired because your family of four are sleeping in a one room bungalow, and you didn't get much sleep the night before, you just remember that, you're on a tropical island, in the South Pacific with your beautiful family, staying in a bungalow, right on the beach, and life really couldn't get much better.
 
 ![](/uploads/hammock.jpeg){: width="2316" height="2895"}
 
