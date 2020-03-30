@@ -54,7 +54,7 @@ Hot chips are good no matter where you are in the world.
 
 Nothing makes me happier than travelling to new places and experiencing their food culture, and there's no greater feeling than when your kids experiment with new and different foods and love them.
 
-![](/uploads/dalo.jpeg){: width="3024" height="4032"}
+![](/uploads/dalo-jpeg.zip)
 
 Travelling frees your mind and makes room for more creativity. (I knew this already but love being reminded of it.)
 
