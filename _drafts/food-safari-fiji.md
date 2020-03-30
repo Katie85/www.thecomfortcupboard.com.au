@@ -20,13 +20,13 @@ These are just a few of the things we've heard around travelling with young kids
 
 \*Flying long distance with young kids is like giving birth. It can be f\*cking painful at times but you get through it and forget about the pain soon enough.
 
-![](/uploads/airport.jpeg){: width="3024" height="4032"}
+![](/uploads/airport-min.jpeg){: width="3024" height="4032"}
 
 ### **Food things and insights from this trip…**
 
 &nbsp;
 
-![](/uploads/image-6.jpeg){: width="3024" height="4032"}
+![](/uploads/tart-min.jpeg){: width="3024" height="4032"}
 
 **BEST THINGS WE ATE**
 
