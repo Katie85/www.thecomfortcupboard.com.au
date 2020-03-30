@@ -38,7 +38,7 @@ Zaine: "Spicy chippies" salt and pepper dalo chips (dalo is a local root vegetab
 
 Casper: I'm gonna say hot chips. And papaya.
 
-![](/uploads/image-2-1.jpeg){: width="2160" height="3840"}
+![](/uploads/image-2-min.jpeg){: width="2160" height="3840"}
 
 ### 'Everywhere we go is a food safari'
 
