@@ -28,8 +28,6 @@ These are just a few of the things we've heard around travelling with young kids
 
 ![](/uploads/image-6.jpeg){: width="3024" height="4032"}
 
-### &nbsp;
-
 **BEST THINGS WE ATE**
 
 Me: Prawn salad with chilli and coconut milk.
@@ -63,8 +61,6 @@ Travelling frees your mind and makes room for more creativity. (I knew this alre
 And when your baby doesn't want to nap, which means you don't get to nap, but you're so bloody tired because your family of four are sleeping in a one room bungalow, and you didn't get much sleep the night before, you just remember that, you're on a tropical island, in the South Pacific with your beautiful family, staying in a bungalow, right on the beach, and life really couldn't get much better.
 
 ![](/uploads/hammock.jpeg){: width="2316" height="2895"}
-
-&nbsp;
 
 ![](/uploads/bungalow.jpeg){: width="2160" height="3840"}
 
