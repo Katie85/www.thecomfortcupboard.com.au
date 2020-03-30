@@ -16,7 +16,7 @@ author: Katie Smith
 
 **"Flying with kids that far must be torture"**
 
-These are just a few of the things we've heard around travelling with young kids but we love it. My husband and I love to travel (we met travelling) and always said that when we have kids we wouldn't let it stop us. And even though they may not remember i feel that every experience we have, no matter how young we are is shaping us into who we're becoming.
+These are just a few of the things we've heard around travelling with young kids but we love it. My husband and I love to travel (we met travelling) and always said when we have kids we wouldn't let that stop us. And even though they may not remember i feel that every experience we have, no matter how young we are is shaping us into who we're becoming.
 
 \*Flying long distance with young kids is like giving birth. It can be f\*cking painful at times but you get through it and forget about the pain soon enough.
 
@@ -39,6 +39,8 @@ Husband: Mud crab curry.
 Zaine: "Spicy chippies" salt and pepper dalo chips (dalo is a local root vegetable also known as taro).
 
 Casper: I'm gonna say hot chips. And papaya.
+
+![](/uploads/image-2-1.jpeg){: width="2160" height="3840"}
 
 ### 'Everywhere we go is a food safari.'
 
