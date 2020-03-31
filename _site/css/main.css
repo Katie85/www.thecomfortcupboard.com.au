@@ -17,10 +17,11 @@ a {
   color: inherit;
 }
 
-img {
-  max-width: 100%;
+img.perfect-fit {
+  width: auto;
   height: auto;
-  object-fit: cover;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 /* INCLUDE FONTS */
