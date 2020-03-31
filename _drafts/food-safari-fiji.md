@@ -16,7 +16,7 @@ author: Katie Smith
 
 **"Flying with kids that far must be torture"**
 
-These are just a few of the things we've heard around travelling with young kids. We love it though. My husband and I love to travel (we met travelling) and always said, when we have kids we wouldn't let that stop us. And even though they may not remember, i feel that every experience we have, no matter how young, shapes us into who we are.
+These are just a few of the things we've heard around travelling with young kids. We love it though. My husband and I love to travel (we met travelling) and always said when we have kids we wouldn't let that stop us. And even though they may not remember, i feel that every experience we have, no matter how young, shapes us into who we are.
 
 \*Flying long distance with young kids is like giving birth. It can be f\*cking painful at times but you get through it and forget about the pain soon enough.
 
