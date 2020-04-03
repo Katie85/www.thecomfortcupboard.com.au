@@ -58,7 +58,7 @@ Nothing makes me happier than travelling to new places and experiencing their fo
 
 Travelling frees your mind and makes room for more creativity. (I knew this already but love being reminded of it.)
 
-And when your baby doesn't want to nap, which means you don't get to nap, but you're so bloody tired because your family of four are sleeping in a one room bungalow, and you didn't get much sleep the night before, you just remember that, you're on a tropical island, in the South Pacific with your beautiful family, staying in a bungalow, right on the beach, and life really couldn't get much better.
+And when your baby doesn't want to nap, which means you don't get to nap, but you're so bloody tired because your family of four are sleeping in a one room bungalow, and you didn't get much sleep the night before because of said baby, you just remember that, you're on a tropical island, in the South Pacific with your beautiful family, staying in a bungalow, right on the beach, and life really couldn't get much better.
 
 ![](/uploads/hammock-min.jpeg){: width="2316" height="2895"}
 
