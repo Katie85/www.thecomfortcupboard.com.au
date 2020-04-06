@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HOT CROSS BUNS STUFFED WITH SALTED CARAMEL
+title: SALTED CARAMEL HOT CROSS BUNS
 meta-description:
 meta-keywords:
 image_path: /uploads/hcb.jpg
@@ -11,8 +11,6 @@ author: Katie Smith
 ---
 
 ## It's what's on the inside that counts…
-
-&nbsp;
 
 Imagine a hot cross bun but stuffed with caramel. Heaven, I know.
 
