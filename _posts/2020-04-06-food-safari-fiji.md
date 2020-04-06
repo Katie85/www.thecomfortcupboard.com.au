@@ -16,7 +16,7 @@ author: Katie Smith
 
 **"Flying with kids that far must be torture"**
 
-These are just a few of the things we've heard around travelling with young kids. We love it though. My husband and I love to travel (we met travelling) and always said when we have kids we wouldn't let that stop us. And even though they may not remember, i feel that every experience we have, no matter how young, shapes us into who we are.
+These are just a few of the things we've heard around travelling with young kids. We love it though. My husband and I love to travel (we met travelling) and always said when we have kids we wouldn't let that stop us. And even though they may not remember, I feel that every experience we have, no matter how young, shapes us into who we are.
 
 \*Flying long distance with young kids is like giving birth. It can be f\*cking painful at times but you get through it and forget about the pain soon enough.
 
@@ -44,9 +44,9 @@ Casper: I'm gonna say hot chips. And papaya.
 
 &nbsp;
 
-It's best to let go of usual "food rules". It's too hard to do gluten free, dairy free and refined sugar free the whole time when travelling, AND, it makes it fun free when you can't try all the new things on offer; so for us (and when i say us i mean the kids and I as my husband is definitely not down for this way of eating) it goes somewhat out the window as it's more a choice to eat this way and not a necessity.
+It's best to let go of usual "food rules". It's too hard to do gluten free, dairy free and refined sugar free the whole time when travelling, AND, it makes it fun free when you can't try all the new things on offer; so for us (and when I say us I mean the kids and I as my husband is definitely not down for this way of eating) it goes somewhat out the window as it's more a choice to eat this way and not a necessity.
 
-It's ok to turn a blind eye (\*it was hard) when your 4.5 year old wants a chocolate chip muffin and a chocolate croissant most mornings for breakfast, because, holidays\! And who am i to deprive her of life's pleasures anyway.
+It's ok to turn a blind eye (\*it was hard) when your 4.5 year old wants a chocolate chip muffin and a chocolate croissant most mornings for breakfast, because, holidays\! And who am I to deprive her of life's pleasures anyway.
 
 Be armed with snacks everywhere you go. Like, everywhere. Whingy kids are easily remedied with snacks.
 
