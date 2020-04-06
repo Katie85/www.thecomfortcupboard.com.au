@@ -42,7 +42,7 @@ Once cooled, add the agar agar, lemon juice and salt and whisk together. Put bac
 
 Pour into a container and let it set overnight.
 
-It will be set kinda like a hard jelly so cut it up and blend in a high powdered (not a food processor, thermomix should work) blender and blend until smooth and creamy. Be patient as this can take time, you’ll need to mix it up in between blends.
+It will be set kinda like a hard jelly so cut it up and blend in a high powdered (not a food processor, thermomix will work) blender and blend until smooth and creamy. Be patient as this can take time, you’ll need to mix it up in between blends.
 
 Put in a piping bag with a long skinny nozzle ready for stuffing the buns. Keep refrigerated.
 
