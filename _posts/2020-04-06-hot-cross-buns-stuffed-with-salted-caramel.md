@@ -5,8 +5,8 @@ meta-description:
 meta-keywords:
 image_path: /uploads/hcb.jpg
 categories:
-  - BLOG
-  - FOOD SAFARI
+  - DAIRY FREE
+  - REFINED SUGAR FREE
 author: Katie Smith
 ---
 
