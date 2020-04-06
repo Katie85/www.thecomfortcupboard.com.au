@@ -3,7 +3,7 @@ layout: post
 title: HOT CROSS BUNS STUFFED WITH SALTED CARAMEL
 meta-description:
 meta-keywords:
-image_path: /uploads/hcb.jpeg
+image_path: /uploads/hcb.jpg
 categories:
   - BLOG
   - FOOD SAFARI
