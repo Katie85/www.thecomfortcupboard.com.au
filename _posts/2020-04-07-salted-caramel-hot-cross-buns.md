@@ -16,7 +16,7 @@ Imagine a hot cross bun but stuffed with caramel. Heaven, I know.
 
 The inspiration for these came a few years ago when I had the most amazing salted caramel donut form Mary Street bakery in Perth. It was right before Easter so I put two and two together and came up with these little darlings.
 
-WARNING: It's a long recipe but you'll thanks me later. HAPPY EASTER\!
+WARNING: It's a long recipe but you'll thank me later. HAPPY EASTER\!
 
 ## **Salted Caramel&nbsp;**
 
