@@ -12,7 +12,7 @@ author: Katie Smith
 
 ## It's what's on the inside that counts…
 
-Imagine a hot cross bun but stuffed with caramel. Heaven, I know.
+Imagine a hot cross bun but stuffed with caramel. Heaven, right?\!
 
 The inspiration for these came a few years ago when I had the most amazing salted caramel donut form Mary Street bakery in Perth. It was right before Easter so I put two and two together and came up with these little darlings.
 
@@ -76,6 +76,8 @@ Put in a piping bag with a long skinny nozzle ready for stuffing the buns. Keep 
 
 1 1/2 tsp vanilla extract
 
+&nbsp;
+
 ### PASTE FOR CROSSES
 
 2 tbsp white flour
@@ -88,7 +90,7 @@ Mix the water into the flour SLOWLY so it’s smooth with no lumps. Put into a p
 
 2 tbsp coconut nectar or maple syrup
 
-**OPTIONAL EXTRA&nbsp;**
+### **OPTIONAL EXTRA&nbsp;**
 
 Chocolate chips or chunks
 
