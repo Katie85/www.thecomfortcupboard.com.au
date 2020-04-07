@@ -28,7 +28,7 @@ These are just a few of the things we've heard around travelling with young kids
 
 ![](/uploads/tart-min.jpeg){: width="3024" height="4032"}
 
-### **BEST THINGS WE ATE**
+## **BEST THINGS WE ATE**
 
 Me: Prawn salad with chilli and coconut milk.
 
