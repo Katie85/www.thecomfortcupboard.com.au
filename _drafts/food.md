@@ -22,13 +22,13 @@ These are just a few of the things we've heard around travelling with young kids
 
 ![](/uploads/airport-min.jpeg){: width="3024" height="4032"}
 
-### **Food things and insights from this trip…**
+## **Food things and insights from this trip…**
 
 &nbsp;
 
 ![](/uploads/tart-min.jpeg){: width="3024" height="4032"}
 
-**BEST THINGS WE ATE**
+### **BEST THINGS WE ATE**
 
 Me: Prawn salad with chilli and coconut milk.
 
@@ -40,7 +40,7 @@ Casper: I'm gonna say hot chips. And papaya.
 
 ![](/uploads/image-2-min.jpeg){: width="2160" height="3840"}
 
-### 'Everywhere we go is a food safari'
+## 'Everywhere we go is a food safari'
 
 &nbsp;
 
