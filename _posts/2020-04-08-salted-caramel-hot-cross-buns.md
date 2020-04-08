@@ -30,7 +30,7 @@ WARNING: It's a long recipe but you'll thank me later. HAPPY EASTER\!
 
 3/4 tsp salt
 
-Put the sugar in a saucepan and add a splash of the coconut milk. Turn on to a low heat and bring to the boil. Boil for about a minute then add the tin of coconut milk and and stir to combine. Let cool.
+Put the sugar in a saucepan and add a splash of the coconut milk. Turn on to a low heat and bring to the boil. Boil for around 2 minutes then add the tin of coconut milk and and stir to combine. Let cool.
 
 Once cooled, add the agar agar, lemon juice and salt and whisk together. Put back on the heat and bring to the boil. Once boiled it’s done.&nbsp;
 
