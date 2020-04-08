@@ -10,9 +10,9 @@ categories:
 author: Katie Smith
 ---
 
-## It's what's on the inside that counts…
+### It's what's on the inside that counts…
 
-Imagine a hot cross bun but stuffed with caramel. Heaven, right?\!
+Imagine a hot cross bun but stuffed with caramel. Heaven, right?\! That it is.
 
 The inspiration for these came a few years ago when I had the most amazing salted caramel donut form Mary Street bakery in Perth. It was right before Easter so I put two and two together and came up with these little darlings.
 
