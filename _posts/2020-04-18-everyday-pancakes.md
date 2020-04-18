@@ -3,7 +3,7 @@ layout: post
 title: Everyday Pancakes
 meta-description:
 meta-keywords:
-image_path: /uploads/img-8434.jpg
+image_path: /uploads/img-8434-2.jpg
 categories:
   - DAIRY FREE
   - REFINED SUGAR FREE
