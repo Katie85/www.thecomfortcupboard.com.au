@@ -19,17 +19,17 @@ I like to call these Everyday Pancakes as they're something i could happily eat 
 
 #### **DRY**
 
-**1/2 cup quinoa flour**
+1/2 cup quinoa flour
 
-**1/2 cup buckwheat flour**
+1/2 cup buckwheat flour
 
-**1/2 tsp baking powder**
+1/2 tsp baking powder
 
-**1/2 tsp baking soda**
+1/2 tsp baking soda
 
-**1/2 tsp cinnamon powder**
+1/2 tsp cinnamon powder
 
-### WET
+#### WET
 
 1/2 cup almond milk
 
