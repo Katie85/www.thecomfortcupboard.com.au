@@ -43,6 +43,8 @@ I like to call these Everyday Pancakes as they're something i could happily eat 
 
 1 tsp vanilla extract
 
+&nbsp;
+
 Put dry ingredients in one bowl and wet in another. Slowly pour the wet into the dry, whisking together at the same time.
 
 I find these work best if made the night before and left in the fridge. It gives the flour enough time to fully hydrate and you end up with super fluffy pancakes.
