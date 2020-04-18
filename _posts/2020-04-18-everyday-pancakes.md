@@ -53,6 +53,6 @@ If you do make on the day just give the mix 30 minutes in the fridge before cook
 
 ### TOPPINGS
 
-Soaked chia seeds, coconut yoghurt, almond butter, berries. The options for toppings are endless though. I like to mix it up depending on what i have at the time and what's in season.
+Soaked chia seeds, coconut yoghurt, almond butter, berries. The options for toppings are endless. I like to mix it up depending on what i have at the time and what's in season.
 
 &nbsp;
