@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everyday Pancakes
+title: EVERYDAY PANCAKES
 meta-description:
 meta-keywords:
 image_path: /uploads/img-8434-2.jpg
