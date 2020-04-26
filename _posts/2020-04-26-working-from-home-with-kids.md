@@ -9,7 +9,7 @@ categories:
 author: Katie Smith
 ---
 
-### DO NOT TRY THIS AT HOME
+DO NOT TRY THIS AT HOME.
 
 Seriously though. Do not try and work from home with young kids. Sure, you can make it work and do bits here and there, but you try telling a four and a half year old that she can't help decorate the lovely lady who's paid good money for your cake's cake.
 
