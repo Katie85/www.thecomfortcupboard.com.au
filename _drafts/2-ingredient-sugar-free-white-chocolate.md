@@ -3,7 +3,7 @@ layout: post
 title: 2 INGREDIENT SUGAR-FREE WHITE CHOCOLATE
 meta-description:
 meta-keywords:
-image_path: /uploads/fullsizeoutput-7ce.jpeg
+image_path: /uploads/fullsizeoutput-80c.jpeg
 categories:
   - DAIRY FREE
   - EGG FREE
