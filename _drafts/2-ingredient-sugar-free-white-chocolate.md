@@ -29,6 +29,26 @@ It's a super easy recipe but you will need to temper\* the cacao butter with a t
 
 #### METHOD
 
+Chop or grate the cacao butter. Grating is best for even melting.
+
+Put half in a glass or stainless steel bowl and set the other half aside.
+
+Place the glass/stainless bowl over a pot of simmering water. Watching with the thermometer, take off the heat once it reaches approx. 55C.
+
+Add the other half of the cacao butter to bring the temperature down. This is tempering.&nbsp;
+
+While thats happening de-seed the dates and chop into 0.5cm pieces.&nbsp;
+
+Line a small tin or container (you want something around 5cmx12cm).
+
+Cover the base with the chopped dates. You don't want to press them in too firm as you want the cacao butter to run through the gaps.
+
+Once the cacao butter reaches approx. 28C pour it over the dates.
+
+Set in the fridge or freezer.
+
+Once set cut as desired.&nbsp;
+
 &nbsp;
 
 &nbsp;
