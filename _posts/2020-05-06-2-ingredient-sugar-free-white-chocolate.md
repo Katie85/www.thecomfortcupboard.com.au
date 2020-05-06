@@ -21,13 +21,17 @@ It's a super easy recipe but you will need to temper\* the cacao butter with a t
 
 \*Temper: To improve the consistency and hardness of the cacao butter and to re-set the crystals properly.
 
-#### INGREDIENTS
+&nbsp;
+
+### INGREDIENTS
 
 5 medjool dates
 
 1/3 cup cacao butter
 
-#### METHOD
+&nbsp;
+
+### METHOD
 
 Chop or grate the cacao butter. Grating is best for even melting.
 
