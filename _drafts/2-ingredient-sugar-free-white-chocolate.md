@@ -23,4 +23,10 @@ It's a super easy recipe but you will need to temper\* the cacao butter with a t
 
 #### INGREDIENTS
 
+5 medjool dates
+
+1/3 cup cacao butter
+
+#### METHOD
+
 &nbsp;
