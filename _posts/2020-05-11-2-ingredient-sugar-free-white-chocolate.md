@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 INGREDIENT SUGAR-FREE WHITE CHOCOLATE
+title: 2 INGREDIENT SUGAR FREE WHITE CHOCOLATE
 meta-description:
 meta-keywords:
 image_path: /uploads/fullsizeoutput-7ce-1.jpeg
