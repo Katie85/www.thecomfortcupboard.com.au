@@ -41,7 +41,7 @@ Place the glass/stainless bowl over a pot of simmering water. Watching with the 
 
 Add the other half of the cacao butter to bring the temperature down. This is tempering.&nbsp;
 
-While thats happening de-seed the dates and chop into 0.5cm pieces.&nbsp;
+While that's happening de-seed the dates and chop into 0.5cm pieces.&nbsp;
 
 Line a small tin or container (you want something around 5cmx12cm).
 
