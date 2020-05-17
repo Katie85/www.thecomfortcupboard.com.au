@@ -19,4 +19,4 @@ Technique is the key to creating different textures. Look at sugar: you heat it 
 
 Texture (or lack thereof) will 100% make or break a dish.
 
-So of course quality ingredients are important in creating good food but technique is crucial to creating amazing food. It's not what you have; it's what you do with what you have that counts.
+So of course quality ingredients are important in creating good food but technique is essential to creating amazing food. It's not what you have; it's what you do with what you have that counts.
