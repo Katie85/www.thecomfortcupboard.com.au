@@ -16,6 +16,8 @@ author: Katie Smith
 
 This fudge was actually one of the first recipes i ever gave away. I made it the other day and had forgotten how good it was\! It's super easy AND it's sugar free. You're welcome.
 
+&nbsp;
+
 #### INGREDIENTS
 
 4 medjool dates&nbsp;
