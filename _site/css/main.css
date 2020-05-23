@@ -1,0 +1,819 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #1d1d1d;
+  /* font-family: 'Montserrat', sans-serif; */
+  /* font-family: 'sweet-sans'; */
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Source Sans Pro', sans-serif; */
+  font-weight:  200;
+  line-height: 1.6rem;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+
+}
+
+/* INCLUDE FONTS */
+
+@font-face {
+    font-family: 'sweet-sans';
+    src: url('../fonts/sweet-sans.woff2') format('woff2'),
+         url('../fonts/sweet-sans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* FONTS */
+
+.logo-text{
+  font-size: 2em;
+  display: block;
+  text-decoration: none;
+  padding: 3%;
+  line-height: 1.3;
+}
+
+h1, h2, h3, h4, header, nav .button, .tags {
+    font-family: 'sweet-sans';
+}
+
+h1{
+line-height: 2.8rem;
+
+}
+
+h2{
+  line-height: 2.3rem;
+
+}
+
+h5, h6 {
+  margin: 0.5rem;
+  font-size: 0.8rem;
+}
+
+
+nav {
+  font-size: 1.1rem;
+}
+
+ul {
+  padding-left: 0;
+}
+
+.lh{
+  line-height: 2.7rem;
+}
+/* helpers-generic */
+
+.container{
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.container-small{
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* helpers-text */
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.banner-text{
+    /* background-color: rgba(255, 255, 255, 0.54); */
+    font-size: 1.5rem;
+    color: white;
+}
+
+[class*=grid] .padded-1,
+.padded-1 {
+  padding: 1%;
+}
+
+[class*=grid] .padded-3,
+.padded-3 {
+  padding: 3%;
+}
+
+[class*=grid] .padded-5,
+.padded-5 {
+  padding: 5%;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+/* helpers brand */
+
+.color-primary {
+  color: #ED4997;
+}
+
+.color-secondary {
+  color: #F6EAF0;
+}
+
+.color-white{
+  color: white;
+}
+
+.color-black{
+  color: black;
+}
+
+.background-primary{
+  background-color: #ED4997;
+}
+
+.background-secondary{
+  background-color: #F6EAF0;
+}
+
+.background-black{
+  background-color: black;
+}
+
+.featured-text {
+  /* background-color: #ED4997; */
+  color: white;
+  padding:0.8rem;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* HELPERS position */
+
+.position-fixed{
+  position: fixed;
+}
+
+.position-absolute{
+  position: absolute;
+}
+
+.position-relative{
+  position: relative;
+}
+
+.padding-all {
+  padding: 1rem;
+}
+
+.margin-bottom {
+  margin-bottom: 2.5rem;
+}
+
+/* buttons & tags */
+
+.tags {
+    text-decoration: none;
+    padding: 0.5rem;
+    display: inline-block;
+    text-align:center;
+    border: 1px solid #ED4997;
+    margin: 15px;
+    margin-top: 5%;
+    color: #ED4997;
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+
+    /* border: solid 1.5px black; */
+    /* background-color: black; */
+  }
+
+.tags:hover {
+  color: #black;
+  /* background-color: #ED4997; */
+;
+  /* transition: 0.5s all; */
+}
+
+.tag-section{
+  margin-top: 5%;
+  margin-left: 12%;
+  margin-right: 12%;
+  background-color: white;
+}
+
+.button {
+  background-color: #fff;
+  padding top: 14px 28px;
+  display: inline-block;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+
+
+/* header */
+
+header{
+  width: 100%;
+  z-index: 5;
+  padding: 0.2rem;
+  padding-top: 1.4rem;
+  /* padding-bottom: -rem; */
+  /* line-height: 5; */
+  border-bottom: solid 2px #ED4997;
+}
+
+.logo{
+  width: 45px;
+  height: auto;
+}
+
+.logo-text{
+  font-size: 2rem;
+  /* line-height: 1rem;
+  margin-bottom: -4%; */
+}
+
+.fab{
+  color: #ED4997;
+  font-size: 2rem;
+
+}
+
+header nav a{
+  /* display: inline-block; */
+  padding: 10px;
+  /* display: inline-block; */
+  text-decoration: none;
+  /* border-bottom: 1px solid white; */
+  padding: 10px;
+  line-height: 1;
+  padding-right: 1%;
+}
+
+header nav a:hover {
+  border-bottom: 1px solid #ED4997;
+  color: #ED4997;
+}
+
+/* header{
+  background-color: black;
+  color: white;
+} */
+
+
+
+/* tagline */
+
+.tagline{
+  background-image: url("/img/half-sprinkle.jpg");
+  min-height: 150vh;
+  background-size: cover;
+  color: #ED4997;
+  padding: 20%;
+}
+
+.tagline h1, .tagline h3{
+  /* background-color: #ED4997; */
+  padding: 0.5rem;
+  line-height: 1.6;
+  font-size: 2.7rem;
+  display: inline-block;
+
+}
+
+
+
+/* ABOUT */
+
+.about{
+  border: solid 25px white;
+  line-height: 1.9rem;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: 1.2rem;
+  text-align: left;
+  color: #1d1d1d;
+}
+
+/* MENUS */
+
+.menus{
+  min-height: 75vh;
+  border: solid 10px white;
+}
+
+.menus p{
+  padding: 1rem;
+}
+
+.menus p span{
+  background-color: white;
+  padding: 0.5rem;
+  display: block;
+  color: #ED4997;
+  line-height: 1.25;
+  font-size: 1rem;
+}
+
+
+.bg-image {
+  background-size: cover;
+  background-position: center;
+}
+
+
+.cake-menu, .dessert-bar-menu, .catering-menu, .cakes {
+  background-size: cover;
+  color: white;
+  background-position: center;
+}
+
+.cake-menu{
+  background-image: url("../img/petal-cake.jpg");
+  margin-right: right: 2%;
+  text-decoration: none;
+}
+
+.dessert-bar-menu{
+background-image: url("../img/dessert-bar.jpg");
+}
+
+.catering-menu{
+  background-image: url("../img/platters.jpg");
+}
+
+.coming-soon{
+  background-color: #F6EAF0;
+  color: #ED4997;
+  border: solid 45px white;
+  line-height: 2rem;
+  font-size: 1.3rem;
+}
+
+/* MENUS */
+
+.cakes{
+  background-image: url("../img/blue-sprinkle.jpg");
+  padding-top: 20%;
+  padding-bottom: 20%;
+  padding-left: 3%;
+  position: relative;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+}
+
+.cakes li{
+  list-style: none;
+}
+
+/* background-image */
+
+.cakes-content{
+  z-index: 2;
+  position: relative;
+}
+
+.cakes-overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: .12;
+}
+
+.dessert-bar{
+  color: white;
+  padding-top: 20%;
+  padding-bottom: 50%;
+  font-size: 2rem;
+  line-height: 1.8rem;
+  font-size: 1.2rem;
+  margin-top: %;
+  margin-bottom: %;
+  background-image: url("../img/choux.jpg");
+  background-size: cover;
+
+}
+.dessert-bar h2{
+  line-height: 1.25;
+}
+
+.platters{
+  background-image: url("../img/platter-menu.jpg");
+  background-size: cover;
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  margin-bottom: 3%;
+  font-size: 1.5rem;
+  line-height: 1.7rem;
+}
+
+/* VEGAN ICE CREAM */
+
+.vegan-ice-cream{
+  /* background-color: #F6EAF0; */
+  color: #ED4997;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  line-height: 2.3rem;
+  margin-top: 0%;
+}
+
+.vanilla {
+  margin-top: %;
+  margin-bottom: %;
+  line-height: 1.7rem;
+}
+
+.passionfruit {
+  margin-top: 3%;
+  line-height: 1.7rem;
+}
+
+.chocolate {
+  background-image: url("../img/icecream-bunch.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-top: 0%;
+  line-height: 1.7rem;
+  padding:40%;
+  padding-bottom: 70%;
+
+}
+
+.icecream-sub{
+
+}
+
+.info{
+  line-height: 3rem;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.info-tab{
+  display: inline-block;
+  background-color: black;
+  padding: 2%;
+}
+
+.nutritional {
+  position: relative;
+  font-size: 1rem;
+}
+
+.nutritional-chocolate{
+}
+
+.nutritional li{
+  list-style: none;
+  font-size: 0.8rem;
+}
+
+.button-n{
+  padding:2%;
+  border:1px solid;
+  display:inline-block;
+  margin:3%;
+}
+
+.popup {
+  position: fixed;
+  left: 100vw;
+  z-index: 5;
+  padding: 2rem;
+  background-color: rgba(0,0,0,0);
+}
+.popup.onscreen {
+  left: 20%;
+  right: 20%;
+  top: 20%;
+}
+
+.overlay {
+  background-color: white;
+  transition: background-color 1s;
+  position: fixed;
+}
+
+.overlay.onscreen {
+  background-color: WHITE;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+polygon, path{
+  fill:rgba(0,0,0,0);
+  stroke:black;
+  stroke-width:5;
+}
+
+.popupX {
+    position:absolute;
+  top:1rem;
+  right:1rem;
+  width:1rem;
+  padding: 1rem;
+}
+
+
+
+
+.border{
+  border: solid 1px #F6EAF0;
+
+  }
+
+.recipes{
+  padding-top: 0.3%;
+  padding-bottom: 0.3%;
+  color: #ED4997;
+  font-size: 1.3rem;
+  /* border: solid 2px rgb(90,90,90); */
+}
+
+/* CONTACT SECTION */
+
+.contact {
+  border: solid 1.5px black;
+}
+
+.contact-background {
+  background-image: url("../img/funfetti-babies.jpg");
+  background-size: cover;
+}
+/* CONTACT FORM */
+
+form * {
+  background-color: white;
+  display: block;
+  width: 100%;
+  outline: none;
+  border: none;
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 3px;
+  color: black;
+}
+
+form button,
+form [type=submit] {
+  background: #ED4997;
+  border: solid 2px #ED4997
+  color: #ED4997;
+}
+
+form textarea {
+  height: 200px;
+}
+
+
+
+.footer {
+  background-color: #ED4997;
+  text-align: center;
+  color: white;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.social-footer a{
+  text-decoration: none;
+  padding: 0.3%;
+}
+
+.social-footer i{
+  color: pink;
+  font-size: 2.5rem;
+}
+
+.logo-footer{
+  margin-top: 4%;
+  margin-bottom: 4%;
+  line-height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  position: relative;
+}
+.logo-footer .social{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.logo-footer h6{
+
+}
+
+.subscribe-background{
+  background-image: url("../img/turkish.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  flex-direction: column;
+}
+.subscribe-background div{
+  padding-bottom: 2rem;
+}
+
+.subscribe-background h2{
+
+}
+
+
+
+/* blog posts */
+
+.blog-post{
+  max-width: 900px;
+  margin: auto;
+  color: #1d1d1d;
+}
+
+.post-image { /* this is the small image on the recipes page or any blog loops */
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 90%;
+}
+
+.post-block { /* this is the block of content in the blog post loops */
+    padding: 0.5%;
+    text-decoration: none;
+}
+/* this is the link inside the post block that links to the blog post itself, it has the title, picture etc inside it */
+.post-block a {
+    text-decoration: none;
+    display: block;
+}
+/* .post-block a:hover {
+    color: pink;
+} */
+.post-block a:hover .post-image {
+    /* if you want to do soemthing to the image on hover, add that here */
+}
+
+
+
+/* BURGER MENU */
+
+.burger-button {
+  position: absolute;
+  top: 5.3vh;
+  right: 5vw;
+  z-index: 9999999999;
+  padding: 8px;
+}
+/*this is where you can chand the color of the buttons*/
+.burger-button span{
+  width: 25px;
+  border: 1.3px solid #ED4997;
+  background-color: #ED4997;
+  display: block;
+  border-radius: 22px;
+  transition: 2s;
+}
+.burger-button.active span{
+  border-color: #ED4997;
+  background-color:#ED4997;
+}
+
+.burger-top, .burger-bottom{
+  position: absolute;
+}
+
+.burger-top{
+  top: 01px;
+}
+
+.burger-bottom{
+  bottom: 01px;
+}
+/* make sure this has the same top as the burger button has padding*/
+.burger-button.active .burger-top{
+  position: absolute;
+  top: 8px;
+  transform: rotateZ(45deg);
+}
+
+.burger-button.active .burger-middle{
+  transform: rotateZ(270deg);
+  border-color: rgba(0,0,0,0);
+  background-color:rgba(0,0,0,0);
+}
+
+/* make sure this has the same bottom as the burger button has padding*/
+
+.burger-button.active .burger-bottom{
+  position: absolute;
+  bottom: 8px;
+  transform: rotateZ(-45deg);
+}
+
+
+.burger-menu {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #f9f9f9;
+    padding: 10vh 10%;
+    box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.1);
+    z-index: 99999999;
+}
+
+.burger-menu a {
+  text-decoration: none;
+  padding: 15px 11px;
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #ED4997;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  display:block;
+  padding:5% 15px;
+  text-align:center;
+  white-space:nowrap;
+}
+
+
+
+.mobile-show {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobile-hide {
+    display: none;
+  }
+  .mobile-show {
+    display: block;
+  }
+
+  .mobile-image-padding {
+    padding-bottom: 60%;
+  }
+
+  .mobile-stack {
+    display: block;
+    padding: 5%;
+    font-size: 8.5vw;
+  }
+
+  .tagline h2 {
+    font-size: 8.5vw;
+  }
+
+  .banner-text {
+    line-height: 2rem;
+  }
+
+  footer > div {
+    min-height: 100vw;
+  }
+
+}
+@media(max-width:1280px) {
+  .container {
+    margin: 0 5%;
+  }
+
+  /* .banner-text {
+    line-height: 2rem; */
+  }
+}
