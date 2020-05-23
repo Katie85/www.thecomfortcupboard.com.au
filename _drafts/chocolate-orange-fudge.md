@@ -14,7 +14,7 @@ categories:
 author: Katie Smith
 ---
 
-This fudge was actually one of the first recipes i ever gave away. I made it the other day and I'd forgotten how good it is\! It's super easy AND it's sugar free. You're welcome.
+This fudge was actually one of the first recipes i ever gave away. I made it the other day and had forgotten how good it was\! It's super easy AND it's sugar free. You're welcome.
 
 #### INGREDIENTS
 
