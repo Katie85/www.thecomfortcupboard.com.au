@@ -32,7 +32,7 @@ This fudge was actually one of the first recipes i ever gave away. I made it the
 
 3 big pinches salt
 
-2 drops doterra wild orange essential oil
+2 drops doTERRA wild orange essential oil
 
 &nbsp;
 
