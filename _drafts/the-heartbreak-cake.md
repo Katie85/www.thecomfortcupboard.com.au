@@ -19,7 +19,7 @@ I kept wishing i'd done better.
 
 I kept trying to justify myself, to myself.
 
-I kept thinking that everyone must hate their cake and would be thinking i'm a phoney and a rip off - HELLO imposter syndrome.&nbsp;
+I kept thinking that everyone must hate their cake and would be thinking i'm a phoney and a rip off - HELLO Imposter Syndrome.&nbsp;
 
 I kept wishing i hadn't put the price up from last year.
 
