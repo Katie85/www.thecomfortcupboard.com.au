@@ -11,7 +11,7 @@ author: Katie Smith
 
 #### Day in the life of an entrepreneur/human.
 
-My recent Mother's Day was going fabulously until I was confronted with a customer's heart cake photo. This has nothing to do with the quality of her photo (I LOVE and appreciate it so much when I get tagged in customer pics) and everything to do with comparison and perfectionism.
+My recent Mother's Day was going fabulously until I was confronted with a customer's heart cake photo. This has nothing to do with the quality of her photo (I love and appreciate it so much when I get tagged in pics) and everything to do with comparison and perfectionism.
 
 I instantly went spiralling into anxiety. I could not relax.
 
