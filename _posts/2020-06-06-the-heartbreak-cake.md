@@ -33,7 +33,7 @@ Could not let it go that I'd accidentally put five pieces of marshmallow instead
 
 When I stopped spiralling and started to come back to reality, I realised…
 
-Customers' photos will never look as good as your own. There's a huge difference between an iPhone camera and an SLR camera, and an even bigger difference between indoor and outdoor lighting.
+Customers' photos will never look as good as your own. There's a huge difference between an iPhone camera and an SLR, and an even bigger difference between indoor and outdoor lighting.
 
 The cake was never gonna look as good as it did super fresh when i shot it. Kinda like getting glammed up for a night out then looking at your face in a seedy nightclub bathroom at 3am; still hot, but not as fresh.
 
