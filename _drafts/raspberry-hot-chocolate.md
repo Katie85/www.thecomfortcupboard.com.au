@@ -28,7 +28,7 @@ The edition of the rosewater marshmallows take it to the next level. CLICK HERE 
 
 **1/4 boiling water**
 
-**2/3 cup milk of your choice (i use coconut cream)**
+**2/3 cup milk of your choice (I use coconut cream)**
 
 Add the cacao powder, raspberry powder and maple syrup to a mug while you wait for the kettle to boil. At the same time heat your milk in a pot or in the microwave.
 
