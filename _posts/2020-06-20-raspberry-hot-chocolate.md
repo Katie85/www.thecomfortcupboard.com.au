@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Raspberry Hot Chocolate
+title: RASPBERRY HOT CHOCOLATE
 meta-description:
 meta-keywords:
 image_path: /uploads/hotchoc.jpg
