@@ -18,17 +18,17 @@ I came up with this (genius I thought) idea last winter because chocolate and ra
 
 The edition of the rosewater marshmallows take it to the next level. [CLICK HERE FOR RECIPE](https://www.thecomfortcupboard.com.au/dairy%20free/gluten%20free/refined%20sugar%20free/egg%20free/2020/06/20/rosewater-marshmallows.html){: target="_blank"}
 
-**Makes 1 cup**
+#### **Makes 1 cup**
 
-**1 tbsp cacao powder**
+#### **1 tbsp cacao powder**
 
-**3/4 tsp [freeze dried raspberry powder&nbsp;](http://chefspantry.com.au/product/freeze-dried-raspberry-powder-200g-fresh-as/){: target="_blank"}&nbsp;OR 3 tsp raspberry puree&nbsp;**
+#### **3/4 tsp [freeze dried raspberry powder&nbsp;](http://chefspantry.com.au/product/freeze-dried-raspberry-powder-200g-fresh-as/){: target="_blank"}&nbsp;OR 3 tsp raspberry puree&nbsp;**
 
-**1 tbsp maple syrup**
+#### **1 tbsp maple syrup**
 
-**1/4 boiling water**
+#### **1/4 cup boiling water**
 
-**2/3 cup milk of your choice (I use coconut cream)**
+#### **2/3 cup milk of your choice (I use coconut cream)**<br>&nbsp;
 
 Add the cacao powder, raspberry powder and maple syrup to a mug while you wait for the kettle to boil. At the same time heat your milk in a pot or in the microwave.
 
