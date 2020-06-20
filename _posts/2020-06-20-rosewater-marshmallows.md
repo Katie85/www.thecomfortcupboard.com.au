@@ -24,8 +24,6 @@ Those who know me know that I LOVE rosewater and use it where ever I can and tho
 
 #### Pinch salt
 
-&nbsp;
-
 #### **IN A MIXER**
 
 #### 1/4 cup water
@@ -35,8 +33,6 @@ Those who know me know that I LOVE rosewater and use it where ever I can and tho
 #### 1 tsp beetroot powder (optional for colouring)
 
 #### 1 1/2 tsp rose water&nbsp;
-
-&nbsp;
 
 Put the saucepan on medium heat, monitoring with a candy thermometer bring up to soft ball stage (112 degrees c).
 
