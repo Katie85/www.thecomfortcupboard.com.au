@@ -24,10 +24,6 @@ Pinch salt
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 IN A MIXER
 
 1/4 cup water
