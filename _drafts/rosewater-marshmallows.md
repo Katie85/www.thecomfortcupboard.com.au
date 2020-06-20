@@ -12,6 +12,8 @@ categories:
 author: Katie Smith
 ---
 
+Those who know me know that I LOVE rosewater and use it where ever I can and those who don't know me now know that i really love rosewater and will see it frequent my recipes with these beautiful marshmallows being no exception. I use Cortas rosewater which you can purchase [here](https://internationalgroceries.com.au/Cortas%20Rose%20Water){: target="_blank"}. It's the real deal - no artificial flavours or colours, just distilled water and edible rose petal extract.
+
 IN A SAUCEPAN&nbsp;
 
 1/4 cup water
@@ -32,7 +34,7 @@ IN A MIXER
 
 1 tsp beetroot powder (optional for colouring)
 
-1 tsp rose water (optional)
+1 1/2 tsp rose water&nbsp;
 
 Put the saucepan on medium heat, monitoring with a candy thermometer bring up to soft ball stage (112 degrees c).
 
@@ -42,4 +44,4 @@ Slowly pour in the hot syrup then turn mixer to high and beat for around 10 minu
 
 Line a large container with baking paper and put marshmallow mix in to set.
 
-Before cutting dust the surface with coconut flour to stop the knife sticking. After cutting lightly dust your marshmallow pieces again with coconut flour.
+Set in the fridge for 2 hours then cut with a warm knife (dip in hot water).
