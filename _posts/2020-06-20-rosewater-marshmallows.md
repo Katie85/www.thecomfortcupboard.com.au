@@ -12,7 +12,7 @@ categories:
 author: Katie Smith
 ---
 
-Those who know me know that I LOVE rosewater and use it where ever I can and those who don't know me now know that I really love rosewater and will see it frequent my recipes with these beautiful marshmallows being no exception. I use Cortas rosewater which you can purchase [here](https://internationalgroceries.com.au/Cortas%20Rose%20Water){: target="_blank"}. It's the real deal - no artificial flavours or colours, just distilled water and edible rose petal extract.
+Those who know me know that I LOVE rosewater and use it wherever I can and those who don't know me now know that I really love rosewater and will see it frequent my recipes with these beautiful marshmallows being no exception. I use Cortas rosewater which you can purchase [here](https://internationalgroceries.com.au/Cortas%20Rose%20Water){: target="_blank"}. It's the real deal - no artificial flavours or colours, just distilled water and edible rose petal extract.
 
 **IN A SAUCEPAN&nbsp;**
 
