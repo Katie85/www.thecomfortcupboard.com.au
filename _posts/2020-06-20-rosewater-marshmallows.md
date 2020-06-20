@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rosewater Marshmallows
+title: ROSEWATER MARSHMALLOWS
 meta-description:
 meta-keywords:
 image_path: /uploads/marshmallow.jpg
