@@ -6,7 +6,6 @@ meta-keywords:
 image_path: /uploads/logo-repeat.jpg
 categories:
   - BLOG
-  - RECIPES
 author: Katie Smith
 ---
 
