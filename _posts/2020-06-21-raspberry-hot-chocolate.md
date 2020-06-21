@@ -16,7 +16,7 @@ Winter has well and truly hit us up here in the Pilbara; and when I say hit us I
 
 I came up with this (genius I thought) idea last winter because chocolate and raspberries are one of my fave flavour combos and why not make a hot drink out of them.
 
-The edition of the rosewater marshmallows take it to the next level. [CLICK HERE FOR RECIPE](https://www.thecomfortcupboard.com.au/dairy%20free/gluten%20free/refined%20sugar%20free/egg%20free/2020/06/20/rosewater-marshmallows.html){: target="_blank"}
+The edition of the rosewater marshmallows take it to the next level. [CLICK HERE FOR MARSHMALLOW RECIPE](https://www.thecomfortcupboard.com.au/dairy%20free/gluten%20free/refined%20sugar%20free/egg%20free/2020/06/20/rosewater-marshmallows.html){: target="_blank"}
 
 #### **Makes 1 cup**
 
