@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Food Is Energy
+title: Food is Energy
 meta-description:
 meta-keywords:
 image_path: /uploads/image-7.jpeg
