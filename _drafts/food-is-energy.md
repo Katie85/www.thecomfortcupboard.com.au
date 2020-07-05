@@ -27,4 +27,6 @@ So we know for sure that food can our mood - there was even a word created just 
 
 Just some food for thought.
 
+Photo credit: [Tyler Spangler](https://tylerspangler.com/){: target="_blank"}
+
 &nbsp;
