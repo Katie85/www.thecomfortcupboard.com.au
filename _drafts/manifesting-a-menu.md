@@ -21,4 +21,6 @@ So basically my head was just filled with all these different sweet elements wai
 
 Like our famous Choc Rocks. I came up with the idea of Choc Rocks as I needed a way to use up the off cuts of ice cream from our Ice cream sandwiches (waste not, want not).
 
+I knew I was gonna coat the ice cream pieces in chocolate and call them Choc Rocks but I also needed a sauce and a topping for texture.&nbsp;&nbsp;
+
 &nbsp;
