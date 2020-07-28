@@ -23,4 +23,6 @@ Like our famous Choc Rocks. I came up with the idea of Choc Rocks as I needed a 
 
 I knew I was gonna coat the ice cream pieces in chocolate and call them Choc Rocks but I also needed a sauce and a topping for texture. Sauce options were Salted Caramel or Cinnamon Caramel (both bloody amazing which didnt make it easy) and I was envisioning freeze-dried raspberries as the topping, because pink and on-brand; but when I put it together the rasapberreisd just didnt work. They gave a pop of colour for sure but not enough texture and the tartness didn't pair well with thr bitterness of the dark choclate; I needed somtihng sweeter and crunchier. Instantly it came to me (the Coconut Brittle did and I actually couldn;t beleive i dudn't think of it sooner. This always happenbs by the way: the greatest ideas are usually theo nes right in froint of us but somewtimes we don't see themn straight way.
 
+Cococut Brittle was a recipe I came up with early last year while on materniut kleave. It was that good that i considered selling it by the bag (this may still happen\!) I knew that that was what the Choc rocks needed and when i piut the whole dish together for my husband ans I to test it literally blew our socks off. My husband is not one to get excited over desserts but he was blown away. Chic rocks are now one of our mist iconic desserts and are here to stay.
+
 &nbsp;
