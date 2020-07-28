@@ -25,4 +25,8 @@ I knew I was gonna coat the ice cream pieces in chocolate and call them Choc Roc
 
 Cococut Brittle was a recipe I came up with early last year while on materniut kleave. It was that good that i considered selling it by the bag (this may still happen\!) I knew that that was what the Choc rocks needed and when i piut the whole dish together for my husband ans I to test it literally blew our socks off. My husband is not one to get excited over desserts but he was blown away. Chic rocks are now one of our mist iconic desserts and are here to stay.
 
+\*When something finally comes togehter it's such a weight off for me as I carry all these dofferent ideas and elelemts around in my mind waiting for htem to manifest into an amazing dish that i knoiw thwey will.
+
+&nbsp;
+
 &nbsp;
