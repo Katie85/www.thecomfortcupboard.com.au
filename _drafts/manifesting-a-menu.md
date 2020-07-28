@@ -27,6 +27,6 @@ Cococut Brittle was a recipe I came up with early last year while on materniut k
 
 \*When something finally comes togehter it's such a weight off for me as I carry all these dofferent ideas and elelemts around in my mind waiting for htem to manifest into an amazing dish that i knoiw thwey will.
 
-&nbsp;
+The last dish I added to the menu was the Brownie Bliss. this would have to be my personal fave, even though I don't like playing favourites with my desserts. I created the Beetroot Orange icecream a few years ago and was obessed with it. I dids countless trials of it to get the balance and flavours right. I really wanted it on the menu but wondered how many people would be put off when they saw the word beetroot; so it went on the back burner and I worked on the rest of the menu. When it came to finalising the menu I knew it wqas misisng somwtihng - I knew I had to have brownie on there. I Instantrty had the a vision of ther Brownie with the Beetroot Orabnge Ice Cream and Raspberry CAoulis (anither elelment floaitng aorund up there waitng for a home), then it was just a matter of texture and that's when beetroot wafers came in to play - which funnily enough I'd never even tried or made before but I knew they wpould work. This was literally a few weeks out from launching the Dessert Bar and I knew at that ppoint the menu was comoplete. When you know you know.
 
 &nbsp;
