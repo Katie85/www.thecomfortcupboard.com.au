@@ -15,6 +15,8 @@ author: Katie Smith
 
 I started working in these about a year ago but then they fell by the wayside because a) i got busy, b) I didn't think they were perfect enough to be of any desire to anyone and c) I thought they were too simple and wanted complicate them to try make them perfect. (Why do we do this?) But then i realised that they tasted bloody amazing and didn't need to be exactly like Ferrero Rochers to be worthy. So here they are\!
 
+#### &nbsp;
+
 #### INGREDIENTS
 
 Makes 8
@@ -36,6 +38,8 @@ Big pinch of salt
 **1/2 cup chocolate chips - i use [these](https://www.goodness.com.au/organic-dark-chocolate-drops-55-cocoa-5kg/){: target="_blank" rel="noopener"}. If you're in Karratha you can purchase them from Barefoot Creations.**
 
 **Edible gold leaf (optional) purchase [here](https://www.bakeboss.com.au/product/8243-cake-craft-edible-24k-gold-leaf-5-sheets){: target="_blank" rel="noopener"}**
+
+#### &nbsp;
 
 #### METHOD
 
