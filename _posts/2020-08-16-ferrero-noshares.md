@@ -13,7 +13,7 @@ categories:
 author: Katie Smith
 ---
 
-I started working on these about a year ago but then they fell by the wayside because a) I got busy, b) I didn't think they were perfect enough to be of any desire to anyone and c) I thought they were too simple and wanted complicate them to try make them perfect. (Why do we do this?) But then I realised that they tasted amazing and didn't need to be exactly like Ferrero Rochers to be worthy. So here they are...
+I started working on these about a year ago but then they fell by the wayside because a) I got busy, b) I didn't think they were perfect enough to be of any desire to anyone and c) I thought they were too simple and wanted complicate them to try make them perfect. (Why do we do this?) But then I realised that they tasted amazing and didn't need to be exactly like Ferrero Rochers to be worthy. So here they are…
 
 #### &nbsp;
 
@@ -31,9 +31,9 @@ Makes 8
 
 Big pinch of salt
 
-**8 whole hazelnuts**
-
 &nbsp;
+
+**8 whole hazelnuts**
 
 **1/3 cup coarsely chopped hazelnuts**
 
