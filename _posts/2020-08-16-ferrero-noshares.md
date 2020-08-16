@@ -17,7 +17,7 @@ I started working in these about a year ago but then they fell by the wayside be
 
 #### &nbsp;
 
-#### INGREDIENTS
+### INGREDIENTS
 
 Makes 8
 
@@ -41,7 +41,7 @@ Big pinch of salt
 
 #### &nbsp;
 
-#### METHOD
+### METHOD
 
 Put the hazelnut meal, cacao, maple syrup, vanilla and salt in a bowl and mix until all combined.
 
@@ -55,7 +55,7 @@ Dip each ball in the melted chocolate a place on a tray lined with baking paper.
 
 Roll the balls in the gold leaf. These make a great gift idea\!
 
-\*Disclaimer: gold leaf is a nightmare to work with. Google some tutorials on how to work with it.
+\*Disclaimer: gold leaf is a nightmare to work with. Google some tutorials on how to work use it.
 
 &nbsp;
 
