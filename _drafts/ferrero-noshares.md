@@ -49,7 +49,7 @@ Roll the balls in the coarsely chopped hazelnuts pressing them in to help them s
 
 Dip each ball in the melted chocolate a place on a tray lined with baking paper. Set in the fridge or freezer if you can't wait and really want to eat one.
 
-Roll the balls in the gold leaf. These are a great gift idea\!
+Roll the balls in the gold leaf. These make a great gift idea\!
 
 \*Disclaimer: gold leaf is a nightmare to work with. Google some tutorials on how to work with it.
 
