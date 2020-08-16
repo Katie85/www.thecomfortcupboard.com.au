@@ -33,6 +33,8 @@ Big pinch of salt
 
 **8 whole hazelnuts**
 
+&nbsp;
+
 **1/3 cup coarsely chopped hazelnuts**
 
 **1/2 cup chocolate chips - i use [these](https://www.goodness.com.au/organic-dark-chocolate-drops-55-cocoa-5kg/){: target="_blank" rel="noopener"}. If you're in Karratha you can purchase them from Barefoot Creations.**
@@ -55,7 +57,9 @@ Dip each ball in the melted chocolate a place on a tray lined with baking paper.
 
 Roll the balls in the gold leaf.
 
-**These make a great gift idea\!**
+#### **These make a great gift idea\!**
+
+&nbsp;
 
 \*Disclaimer: gold leaf can be a nightmare to work with. Your best bet is to watch some Youtube tutorials.
 
