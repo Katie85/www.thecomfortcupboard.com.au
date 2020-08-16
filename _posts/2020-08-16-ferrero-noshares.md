@@ -13,7 +13,7 @@ categories:
 author: Katie Smith
 ---
 
-I started working in these about a year ago but then they fell by the wayside because a) i got busy, b) I didn't think they were perfect enough to be of any desire to anyone and c) I thought they were too simple and wanted complicate them to try make them perfect. (Why do we do this?) But then i realised that they tasted bloody amazing and didn't need to be exactly like Ferrero Rochers to be worthy. So here they are\!
+I started working in these about a year ago but then they fell by the wayside because a) I got busy, b) I didn't think they were perfect enough to be of any desire to anyone and c) I thought they were too simple and wanted complicate them to try make them perfect. (Why do we do this?) But then I realised that they tasted bloody amazing and didn't need to be exactly like Ferrero Rochers to be worthy. So here they are\!
 
 #### &nbsp;
 
@@ -53,9 +53,11 @@ Roll the balls in the coarsely chopped hazelnuts pressing them in to help them s
 
 Dip each ball in the melted chocolate a place on a tray lined with baking paper. Set in the fridge or freezer if you can't wait and really want to eat one.
 
-Roll the balls in the gold leaf. These make a great gift idea\!
+Roll the balls in the gold leaf.
 
-\*Disclaimer: gold leaf can be a nightmare to work with. Your best bet is Youtube tutorials.
+**These make a great gift idea\!**
+
+\*Disclaimer: gold leaf can be a nightmare to work with. Your best bet is to watch some Youtube tutorials.
 
 &nbsp;
 
