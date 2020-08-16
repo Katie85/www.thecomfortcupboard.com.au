@@ -51,7 +51,7 @@ Roll the mixture into 8 balls stuffing a whole hazelnut in the centre of each.&n
 
 Roll the balls in the coarsely chopped hazelnuts pressing them in to help them stick.
 
-Dip each ball in the melted chocolate a place on a tray lined with baking paper. Set in the fridge or freezer if you can't wait and really want to eat one.
+Dip each ball in the melted chocolate a place on a tray lined with baking paper. Set in the fridge, or freezer if you can't wait and really want to eat one.
 
 Roll the balls in the gold leaf.
 
