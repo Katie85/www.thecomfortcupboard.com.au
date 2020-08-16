@@ -55,7 +55,7 @@ Dip each ball in the melted chocolate a place on a tray lined with baking paper.
 
 Roll the balls in the gold leaf. These make a great gift idea\!
 
-\*Disclaimer: gold leaf is a nightmare to work with. Google some tutorials on how to work use it.
+\*Disclaimer: gold leaf can be a nightmare to work with. Your best bet is Youtube tutorials.
 
 &nbsp;
 
