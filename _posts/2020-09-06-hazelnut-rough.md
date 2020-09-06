@@ -13,7 +13,7 @@ categories:
 author: Katie Smith
 ---
 
-Keeping with the chocolate hazelnut theme this recipe is the easiest thing you’ll ever make and was born when I combined the leftover chocolate sauce from The Comfort Cupboard Dessert Bar menu and hazelnut meal. The texture took me back to those old school chocolate bars ‘Golden Rough‘, hence the name.&nbsp;<br><br><br>**INGREDIENTS**&nbsp;
+Keeping with the chocolate hazelnut theme this recipe is the easiest thing you’ll ever make and was born when I combined the leftover chocolate sauce from The Comfort Cupboard Dessert Bar menu and hazelnut meal. The texture took me back to those old school chocolate bars ‘Golden Rough‘ (hence the name).<br><br><br>**INGREDIENTS**&nbsp;
 
 1/2 cup cacao powder
 
