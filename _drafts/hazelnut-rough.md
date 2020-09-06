@@ -31,7 +31,7 @@ Pinch of salt&nbsp;
 
 Mix the cacao powder and maple syrup just slightly - you don’t want to over mix it.
 
-Slowly add the oil while whisking ar the same time.
+Slowly add the oil while whisking at the same time.
 
 Fold in the hazelnut meal and salt then pour onto a lined tray.
 
