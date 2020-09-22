@@ -13,3 +13,4 @@ categories:
 author: Katie Smith
 ---
 
+***"If you're not embarrassed by the forst version of your prodct then you've launched too late"* Reid Hoffman**
