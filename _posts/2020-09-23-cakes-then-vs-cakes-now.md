@@ -9,9 +9,11 @@ categories:
 author: Katie Smith
 ---
 
-**"If you're not embarrassed by the first version of your product then you've launched too late" Reid Hoffman**
+#### **"If you're not embarrassed by the first version of your product then you've launched too late" Reid Hoffman**
 
-**"My cakes had to be like that before they could be like this" Me**
+#### **"My cakes had to be like that before they could be like this" Me**
+
+&nbsp;
 
 Sometimes i cringe when i see photos of my cakes from when I was first starting out but more so it brings me joy and satisfaction as it's a beautiful reminder of how far they/I've come.
 
