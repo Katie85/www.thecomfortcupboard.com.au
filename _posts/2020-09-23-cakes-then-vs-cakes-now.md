@@ -13,8 +13,6 @@ author: Katie Smith
 
 #### **"My cakes had to be like that before they could be like this" Me**
 
-&nbsp;
-
 Sometimes i cringe when i see photos of my cakes from when I was first starting out but more so it brings me joy and satisfaction as it's a beautiful reminder of how far they/I've come.
 
 It's kinda like looking back at old photos of ourselves and cringing at our clothes; or how we had our hair; or our eyebrows\! (I'm sorry but who the eff signed off on the thin eyebrow trend?\! Never come back please.) But who we were back then was the best version of our self and we were totally cool for the times (maybe).
