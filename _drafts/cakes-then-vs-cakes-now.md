@@ -3,13 +3,9 @@ layout: post
 title: Cakes Then Vs Cakes Now
 meta-description:
 meta-keywords:
-image_path:
+image_path: /uploads/cakes-then-blog.jpeg
 categories:
-  - DAIRY FREE
-  - EGG FREE
-  - GLUTEN FREE
-  - REFINED SUGAR FREE
-  - VEGAN
+  - BLOG
 author: Katie Smith
 ---
 
