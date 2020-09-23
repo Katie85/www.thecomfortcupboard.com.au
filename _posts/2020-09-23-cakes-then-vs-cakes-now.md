@@ -30,3 +30,5 @@ It's kinda like musicians playing cover songs as opposed to writing their own mu
 All you have to do is start. Start where you are with what you have (physically and mentally). It's the starting that leads to the learning and it's the learning that leads to growing and it's the growing that leads to mastery; along with copious amounts of practice, AND there's always room or improvement, AND nothing is ever perfect. I'm pretty sure in five years time I'll look back at my cakes, and this blog post, and laugh.
 
 Just start.
+
+&nbsp;
