@@ -15,11 +15,11 @@ author: Katie Smith
 
 Sometimes i cringe when i see photos of my cakes from when I was first starting out but more so it brings me joy and satisfaction as it's a beautiful reminder of how far they/I've come.
 
-It's kinda like looking back at old photos of ourselves and cringing at our clothes; or how we had our hair; or our eyebrows\! (I'm sorry but who the eff signed off on the thin eyebrow trend?\! Never come back please.) But who we were back then was the best version of our self and we were totally cool for the times (maybe).
+It's kinda like looking back at old photos and cringing at our clothes; or how we had our hair; or our eyebrows\! (I'm sorry but who the eff signed off on the thin eyebrow trend?\! Never come back please.) But who we were back then was the best version of our self and we were totally cool for the times (maybe).
 
 Our style and self is always evolving so we naturally come up with new ideas and improve on old ones.
 
-I think so many people are afraid to start something because they want to skip all the messiness and start in the middle - or even at the top\! But it doesn't work like that. No one is born an adult, we have to grow, and evolve, and learn, and the same goes for our products and businesses.
+I think so many people are afraid to start something because they want to skip all the messiness and start in the middle - or even at the top\! But it doesn't work like that. No one is born an adult. We have to grow, and evolve, and learn. The same goes for our products and businesses.
 
 I feel like by now I've developed my own style of cake decorating that is completely unique to me. We all start out being inspired by others (and will ALWAYS be inspired by others) taking bits and pieces from their styles and adding them to our own until it becomes a new, unique style. There's a HUGE difference between being inspired and copying. Straight-up copying is not cool, and who would want to do that anyway when it's not sustainable and we're here to be original. Confidence is a huge player in all of this too, and that builds as you do the things. Once you gain confidence you realise that the very reason you are inspired by and look up to certain people is because parts of them are actually parts of you.
 
