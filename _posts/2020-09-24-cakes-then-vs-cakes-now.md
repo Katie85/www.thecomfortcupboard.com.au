@@ -23,9 +23,9 @@ I think so many people are afraid to start something because they want to skip a
 
 I feel like by now I've developed my own style of cake decorating that is completely unique to me. We all start out being inspired by others (and will ALWAYS be inspired by others) taking bits and pieces from their styles and adding them to our own until it becomes a new, unique style. There's a HUGE difference between being inspired and copying. Straight-up copying is not cool, and who would want to do that anyway when it's not sustainable and we're here to be original. Confidence is a huge player in all of this too, and that builds as you do the things. Once you gain confidence you realise that the very reason you are inspired by and look up to certain people is because you are them and they are you.
 
-It's kinda like musicians playing cover songs as opposed to writing their own music but that's exactly what they do when they're starting out: they play music of other musicians who inspire them until they create their own style of music. In case you hadn't noticed I love analogies, so there.
+It's kinda like musicians playing cover songs as opposed to writing their own music, but that's exactly what they do when they're starting out: they play music of other musicians who inspire them until they create their own style of music. In case you hadn't noticed I love analogies, so there.
 
-All you have to do is start. Start where you are with what you have (physically and mentally). It's the starting that leads to the learning and it's the learning that leads to growing and it's the growing that leads to mastery; along with copious amounts of practice, AND there's always room or improvement, AND nothing is ever perfect. I'm pretty sure in five years time I'll look back at my cakes, and this blog post, and laugh.
+You just have to start. Start where you are with what you have (physically and mentally). It's the starting that leads to the learning and it's the learning that leads to growing and it's the growing that leads to mastery; along with copious amounts of practice, AND there's always room or improvement, AND nothing is ever perfect. I'm pretty sure in five years time I'll look back at my cakes, and this blog post, and laugh.
 
 Just start.
 
