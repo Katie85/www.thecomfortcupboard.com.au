@@ -5,7 +5,11 @@ meta-description:
 meta-keywords:
 image_path: /uploads/banaan.jpeg
 categories:
-  - BLOG
+  - DAIRY FREE
+  - VEGAN
+  - REFINED SUGAR FREE
+  - GLUTEN FREE
+  - EGG FREE
 author: Katie Smith
 ---
 
