@@ -13,7 +13,7 @@ categories:
 author: Katie Smith
 ---
 
-I have to govem yl ittle gorl vredit for the name. One day she randomly called Banana Bread 'Ba Naan Bread' and I thought it was the most genius thing ever to name these flatbreads that I've been making for a while now. I think Ba-Naan bread might just become a thing; Google says it's not a thing so you heard it here first\!
+I have to give my little girl credit for the name. One day she randomly called Banana Bread 'Ba Naan Bread' and I thought it was the most genius name ever for these flatbreads that I've been making for a while now. I think Ba-Naan bread might just become a thing; Google says it's not a thing so you heard it here first\!
 
 #### INGREDIENTS
 
@@ -21,7 +21,7 @@ I have to govem yl ittle gorl vredit for the name. One day she randomly called B
 
 3/4 cup tapioca flour
 
-3/4 cup almond meal (i use blanched)
+3/4 cup almond meal (I use blanched)
 
 3/4 cup coconut milk (can substitute any sort of milk)
 
