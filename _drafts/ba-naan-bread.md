@@ -17,7 +17,7 @@ I have to give my little girl credit for the name. One day she randomly called B
 
 #### INGREDIENTS
 
-2 small super-ripe bananas
+2 small to medium super-ripe bananas
 
 3/4 cup tapioca flour
 
