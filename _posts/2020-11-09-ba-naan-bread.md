@@ -13,7 +13,7 @@ categories:
 author: Katie Smith
 ---
 
-I have to give my little girl credit; firstly, for always letting me use her plate, because, THE COLOUR; and secondly, for the name of this recipe. One day she randomly called Banana Bread 'Ba Naan Bread' and I thought it was the most genius name ever for these breakfast flatbreads that I've been making for a while now. I think Ba-Naan bread might just become a thing; Google says it's not a thing so you heard it here first\!
+I have to give my little girl credit. Firstly, for always letting me steal her pink plate, and secondly, for the name of this recipe. One day she randomly called Banana Bread 'Ba Naan Bread' and I thought it was the most genius name ever for these breakfast flatbreads that I've been making for a while now. I think Ba-Naan bread might just become a thing; Google says it's not a thing so you heard it here first\!
 
 #### INGREDIENTS
 
