@@ -72,6 +72,34 @@ Let cool on a rack then get onto the marshmallow fluff icing.
 
 #### MARSHMALLOW FLUFF
 
+### In a mixer
+
+1/4 cup water
+
+1 + 1/2 tsp gelatin powder
+
+1 drop peppermint essential oil (optional)
+
+### In a saucepan
+
+1/4 cup water
+
+1/4 cup honey
+
+Pinch salt
+
+#### METHOD
+
+Mix gelatin and water together.
+
+Heat saucepan mixture to soft ball stage on your candy thermometer (115C). If you have a candy thermometer just boil for around 5 minutes.
+
+Turn mixer on low, slowly and carefully pour in hot mixture
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
