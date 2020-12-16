@@ -52,6 +52,26 @@ Big pinch salt
 
 #### METHOD
 
+Place all ingredients in a food processor and pulse together until combined.
+
+Alternatively, add wet ingredients to dry and mix by hand until it comes together.
+
+Refrigerate dough 1 hour.
+
+Preheat oven to 180C.
+
+Roll dough out into a well floured surface.
+
+Cut into desired shapes.
+
+Place in a lined baking tray and pop in the freezer for 30 mins.
+
+Cook for approx 4-5 minutes depending on your oven. Just keep checking them for colour. They don't take ling at all to cook.
+
+Let cool on a rack then get onto the marshmallow fluff icing.
+
+#### MARSHMALLOW FLUFF
+
 &nbsp;
 
 &nbsp;
