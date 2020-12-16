@@ -107,7 +107,3 @@ NOTE: the icing will set fairly quickly. If it does just pop in the microwave fo
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
