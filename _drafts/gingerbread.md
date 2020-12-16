@@ -12,9 +12,9 @@ categories:
 author: Katie Smith
 ---
 
-I came up with this recipe 2 Christmases ago and it's tradidtion now to make them each year. I'm cutting it fine this year to get it done, because, LIFE, but what would be a 2020 finale withour a last minute Gingerbread sesh anyway.
+I came up with this recipe 2 Christmases ago and it's tradition now to make them each year. I'm cutting it fine this year to get it done, because, LIFE, but what would be a 2020 finale without a last minute Gingerbread sesh anyway.
 
-They're completelyrefined sugar free, dairy free, gluten free and egg free\! My alternative to the usual white royal icing is a honey marshmallow fluff icing. It still gives that super white Christmasy vibe plus it adds a nice flavour and texture. The cookies are then dusted with coconut flour as an alternative to icing sugar (genius right) which stops the marshmallow stickiness and looks like snow.
+They're completely refined sugar free, dairy free, gluten free and egg free\! My alternative to the usual white royal icing is a honey marshmallow fluff icing. It still gives that super white Christmasy vibe plus it adds a nice flavour and texture. The cookies are then dusted with coconut flour as an alternative to icing sugar (genius right) which stops the marshmallow stickiness and looks like snow.
 
 And please make sure you do this below if you have kids and tag us in your pics\!![](/uploads/gingerbreadman.jpg){: width="1536" height="2048"}
 
@@ -66,7 +66,7 @@ Cut into desired shapes.
 
 Place in a lined baking tray and pop in the freezer for 30 mins.
 
-Cook for approx 4-5 minutes depending on your oven. Just keep checking them for colour. They don't take ling at all to cook.
+Cook for approx 4-5 minutes depending on your oven. Just keep checking them for colour. They don't take long at all to cook.
 
 Let cool on a rack then get onto the marshmallow fluff icing.
 
