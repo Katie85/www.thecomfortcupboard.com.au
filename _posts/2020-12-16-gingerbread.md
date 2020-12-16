@@ -98,7 +98,7 @@ Heat saucepan mixture to soft ball stage on your candy thermometer (115C). If yo
 
 Turn mixer on low, slowly and carefully pour in hot mixture.
 
-Best until light and fluffy and super thick, approx 10 minutes.
+Beat until light and fluffy and super thick, approx 10 minutes.
 
 Put icing into piping bag ready for decorating\!
 
