@@ -94,7 +94,13 @@ Mix gelatin and water together.
 
 Heat saucepan mixture to soft ball stage on your candy thermometer (115C). If you have a candy thermometer just boil for around 5 minutes.
 
-Turn mixer on low, slowly and carefully pour in hot mixture
+Turn mixer on low, slowly and carefully pour in hot mixture.
+
+Best until light and fluffy and super thick, approx 10 minutes.
+
+Put icing into piping bag ready for decorating\!
+
+NOTE: the icing will set fairly quickly. If it does just pop in the microwave for 10 seconds and mix back together.
 
 &nbsp;
 
