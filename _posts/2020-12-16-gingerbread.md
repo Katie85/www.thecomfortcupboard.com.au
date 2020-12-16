@@ -94,7 +94,7 @@ Pinch salt
 
 Mix gelatin and water together.
 
-Heat saucepan mixture to soft ball stage on your candy thermometer (115C). If you have a candy thermometer just boil for around 5 minutes.
+Heat saucepan mixture to soft ball stage on your candy thermometer (115C). If you don't have a candy thermometer just boil for around 5 minutes.
 
 Turn mixer on low, slowly and carefully pour in hot mixture.
 
