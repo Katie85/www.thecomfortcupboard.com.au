@@ -20,8 +20,6 @@ And please make sure you do this below if you have kids and tag us in your pics\
 
 ![](/uploads/gingerbreadman.jpg){: width="1536" height="2048"}
 
-![](/uploads/caspergb.jpg){: width="2146" height="3408"}
-
 #### WET INGREDIENTS
 
 1/2 cup coconut sugar - mix with 1/4 cup water and microwave for 30 seconds to dissolve sugar
