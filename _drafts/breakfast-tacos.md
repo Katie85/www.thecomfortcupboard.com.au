@@ -33,6 +33,18 @@ Place in a heavy saucepan.
 
 Add water to about 80% then add cinnamon. Place the lid half on/half off and simmer for about 15 minutes or until tender.
 
-Store
+Store in a glass airtight container in the fridge for 7 days or the freezer for 3 months.
+
+![](/uploads/apple.jpg){: width="960" height="1280"}
+
+TORTILLAS
+
+1 cup chickpea or besan flour
+
+1/3 cup arrowroot powder
+
+1 cup water
+
+Big pinch of salt
 
 &nbsp;
