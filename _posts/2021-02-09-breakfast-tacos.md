@@ -21,7 +21,7 @@ I've been procrastinating posting it because in typical me fashion I thought I n
 
 &nbsp;
 
-### **3 ELEMENTS HEALTH STEWED APPLES**
+#### **3 ELEMENTS HEALTH STEWED APPLES**
 
 5 apples (organic is best)
 
@@ -41,7 +41,7 @@ Store in a glass airtight container in the fridge for 7 days or the freezer for 
 
 ![](/uploads/apple.jpg){: width="960" height="1280"}
 
-### **TORTILLAS**
+#### **TORTILLAS**
 
 1 cup chickpea or besan flour
 
