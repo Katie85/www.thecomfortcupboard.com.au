@@ -8,8 +8,6 @@ categories:
   - BLOG
 author: Katie Smith
 ---
-&nbsp;
-
 Visualisation is everything. Like everything.&nbsp;
 
 You have to be constantly visualising what it is that you want and who you will be when you eventually get it.&nbsp;
