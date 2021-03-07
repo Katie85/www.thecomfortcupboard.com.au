@@ -8,7 +8,7 @@ categories:
   - BLOG
 author: Katie Smith
 ---
-(\*Pictured: us in first of the future Burgermuma shop visualising who we gon be when we get it.)
+(\*Pictured: us in front of the future Burgermuma shop visualising who we gon be when we get it.)
 
 Visualisation is everything. Like, everything.&nbsp;
 
