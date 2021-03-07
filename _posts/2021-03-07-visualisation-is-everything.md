@@ -10,7 +10,7 @@ author: Katie Smith
 ---
 (\*Pictured: us in first of the future Burgermuma shop visualising who we gon be when we get it.)
 
-Visualisation is everything. Like everything.&nbsp;
+Visualisation is everything. Like, everything.&nbsp;
 
 You have to be constantly visualising what it is that you want and who you will be when you eventually get it.&nbsp;
 
