@@ -33,5 +33,3 @@ Because how you feel about yourself is the most important thing. That’s where 
 &nbsp;
 
 &nbsp;
-
-&nbsp;
