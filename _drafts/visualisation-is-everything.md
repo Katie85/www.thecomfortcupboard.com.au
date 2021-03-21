@@ -12,7 +12,7 @@ categories:
   - VEGAN
 author: Katie Smith
 ---
-\*Pictured: us visualising the future Burgermuma shop&nbsp;
+\*Pictured: us envisioning the future Burgermuma shop&nbsp;
 
 Visualisation is everything. Like, everything.&nbsp;
 
