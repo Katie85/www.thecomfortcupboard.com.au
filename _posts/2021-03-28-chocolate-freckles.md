@@ -33,7 +33,7 @@ Let it cool slightly so it's not so runny.
 
 Pipe circles or pour from a jug onto a lined tray.
 
-Sprinkle &nbsp;with Cocofetti and put in the fridge or freezer to set.
+Sprinkle &nbsp;with Cocofetti and set in the fridge or freezer.
 
 Eat and be taken back to childhood.
 
