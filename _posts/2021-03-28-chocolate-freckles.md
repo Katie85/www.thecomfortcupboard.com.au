@@ -37,6 +37,8 @@ Sprinkle &nbsp;with Cocofetti and put in the fridge or freezer to set.
 
 Eat and be taken back to childhood.
 
+&nbsp;
+
 ![](/uploads/image-9.jpeg){: width="5184" height="3456"}
 
 &nbsp;
