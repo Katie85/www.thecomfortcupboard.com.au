@@ -22,3 +22,11 @@ My little girl had been talking about Nutella non-stop. She's never had it in he
 1 tsp vanilla extract
 
 Big pinch salt
+
+Add honey to a bowl.
+
+Sift in cacao then add the vanilla and salt.
+
+Mix slowly with a spatula to combine. It takes a little while for it to come together.
+
+Store in a jar at room temp.
