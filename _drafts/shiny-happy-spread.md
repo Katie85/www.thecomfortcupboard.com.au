@@ -11,4 +11,14 @@ categories:
   - REFINED SUGAR FREE
 author: Katie Smith
 ---
-My little girl had been talking about Nutella non-stop. She's never had it in her life and it doesn't live in our house so I have no idea why; or maybe that is exactly the reason why (the poor deprived child).&nbsp;
+My little girl had been talking about Nutella non-stop. She's never had it in her life and it doesn't live in our house so I have no idea why; or maybe that is exactly the reason why (the poor deprived child); so I came up with an alternative - cause that's what I do - but I also wanted to keep it nut free for a school lunchbox treat. It's super super easy and I'm definitely not reinventing the wheel but here is my version...
+
+#### INGREDIENTS&nbsp;
+
+1/2 cup quality honey
+
+1/2 cup + 2 tbsps cacao powder
+
+1 tsp vanilla extract
+
+Big pinch salt
