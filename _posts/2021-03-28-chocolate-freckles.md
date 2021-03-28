@@ -17,6 +17,8 @@ How nostalgic are chocolate freckles? The quintessential childhood sweet. Every 
 
 The child inside of me still likes to eat all that fun stuff, only now she's a woman who cares about her and her family's health, and wants it all; and why the heck can't we have it?\! We can.
 
+&nbsp;
+
 ### INGREDIENTS
 
 (Makes 1 giant or 12 small freckles)
@@ -34,5 +36,7 @@ Pipe circles or pour from a jug onto a lined tray.
 Sprinkle &nbsp;with Cocofetti and put in the fridge or freezer to set.
 
 Eat and be taken back to childhood.
+
+&nbsp;
 
 &nbsp;
