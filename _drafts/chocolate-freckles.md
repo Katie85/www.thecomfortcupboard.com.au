@@ -19,6 +19,8 @@ The child inside of me still likes to eat all that fun stuff, only now she's a w
 
 #### INGREDIENTS
 
+(Makes 1 giant or 12 small freckles)
+
 1/2 cup 55% vegan chocolate chips - I get mine [here](https://www.goodness.com.au/organic-dark-chocolate-drops-55-cocoa-250g/)&nbsp;but if you live in Karratha you can get them from Barefoot creations
 
 2-3 tbsps Cocofetti sprinkles (AVAILABLE ONLINE SOON)
