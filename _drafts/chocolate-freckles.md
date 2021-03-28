@@ -10,6 +10,7 @@ categories:
   - GLUTEN FREE
   - REFINED SUGAR FREE
   - VEGAN
+  - COCOFETTI
 author: Katie Smith
 ---
 How nostalgic are chocolate freckles? The quintessential childhood sweet. Every party I ever went to had them on the table and every lolly bag I ever took home contained at least one.
