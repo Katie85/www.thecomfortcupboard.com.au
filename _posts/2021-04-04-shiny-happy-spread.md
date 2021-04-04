@@ -30,3 +30,5 @@ Sift in cacao then add the vanilla and salt.
 Mix slowly with a spatula to combine. It takes a little while for it to come together.
 
 Store in a jar at room temp.
+
+&nbsp;
