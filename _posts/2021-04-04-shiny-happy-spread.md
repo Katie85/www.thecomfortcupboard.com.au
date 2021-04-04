@@ -23,6 +23,8 @@ My little girl had been talking about Nutella non-stop. She's never had it in he
 
 Big pinch salt
 
+&nbsp;
+
 Add honey to a bowl.
 
 Sift in cacao then add the vanilla and salt.
