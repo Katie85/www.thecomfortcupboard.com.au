@@ -18,6 +18,8 @@ If you love pancakes you'll love these even more. I promise.
 
 Welcome to the Pancake Bowl Revolution.
 
+&nbsp;
+
 #### INGREDIENTS
 
 Fluffy gluten free/vegan pancake recipe [HERE](https://www.thecomfortcupboard.com.au/dairy%20free/refined%20sugar%20free/egg%20free/vegan/gluten%20free/2020/04/18/everyday-pancakes.html){: target="_blank" rel="noopener"}
