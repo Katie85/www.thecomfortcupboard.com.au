@@ -3,7 +3,7 @@ layout: post
 title: PANCAKE BOWLS
 meta-description:
 meta-keywords:
-image_path: /uploads/image-11.jpeg
+image_path: /uploads/05d5c389-ad00-40c1-bf3d-ac92df9ad90c-1-201-a.jpeg
 categories:
   - DAIRY FREE
   - EGG FREE
