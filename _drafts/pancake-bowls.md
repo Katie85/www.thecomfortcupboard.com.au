@@ -16,7 +16,7 @@ Not enough people are talking about pancake bowls. I started making them a while
 
 If you love pancakes you'll love these even more.
 
-Welcome to the pancake bowl revolution.
+Welcome to the Pancake Bowl Revolution.
 
 GF/V fluffy pancake recipe [HERE](https://www.thecomfortcupboard.com.au/dairy%20free/refined%20sugar%20free/egg%20free/vegan/gluten%20free/2020/04/18/everyday-pancakes.html){: target="_blank" rel="noopener"}
 
