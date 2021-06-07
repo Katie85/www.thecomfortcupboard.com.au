@@ -27,3 +27,7 @@ Fluffy gluten free/vegan pancake recipe [HERE](https://www.thecomfortcupboard.co
 Other toppings of choice
 
 I like to layer mine. I break up the pancakes into bite-size pieces then soak them lightly in the coconut cream. Add blueberries, stewed apple and almond butter. It's bliss.
+
+&nbsp;
+
+&nbsp;
