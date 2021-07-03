@@ -26,7 +26,7 @@ Girls' lunch date with my little lady and we happened to be right next door to a
 
 ![](/uploads/68147672-6e71-454b-b281-79edbfcaf943-1-201-a.jpeg){: width="1156" height="1717"}
 
-Finding a plant-based chocolate bar that tasted EXACTLY like a Snickers.
+Finding a plant based chocolate bar that tasted EXACTLY like a Snickers.
 
 ![](/uploads/6d3cb550-f15d-4419-b4c6-cc975b066e0f-1-201-a.jpeg){: width="3024" height="4032"}
 
@@ -48,7 +48,7 @@ Having a really crappy last supper. The place was super busy, their menu wasn't 
 
 Entice your kids with kids with fresh, colourful juices with heaps of veg in them to counteract all of the hot chips, chicken nuggets and ice cream they will inevitably eat.
 
-If you find an amazing plant-based chocolate bar that tastes exactly like a Snickers, buy multiple and hide them from your kids.
+If you find an amazing plant based chocolate bar that tastes exactly like a Snickers, buy multiple and hide them from your kids.
 
 Lunch at nice restaurants with young kids is not always a great experience but I'm willing to risk it for good food.
 
