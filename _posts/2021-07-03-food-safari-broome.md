@@ -56,7 +56,7 @@ If you find an amazing plant based chocolate bar that tastes exactly like a Snic
 
 Lunch at nice restaurants with young kids is not always a great experience but I'm willing to risk it for good food.
 
-If you have expectations of a really lovely last night sometimes it's best to take matters into your own hands - make a picnic and take it to the beach, instead of going all in on a mediocre restaurant, at a shitty table, with no chicken nuggets and super oily sautéed side veg (me trying to counteract all the hot chips I'd been eating), because, at the end of the day, good food and family is all that really matters in life.&nbsp;
+If you have expectations of a really lovely last night then it's better to take matters into your own hands - make a picnic and take it to the beach - instead of going all in on a mediocre restaurant, at a shitty table, with no chicken nuggets and super oily sautéed side veg (me trying to counteract all the hot chips I'd been eating), because, at the end of the day, good food and family is all that really matters in life.&nbsp;
 
 &nbsp;
 
