@@ -14,7 +14,7 @@ What does an eight hour road trip with two young kids and giving birth have in c
 
 &nbsp;
 
-#### HIGHLIGHTS:
+#### FOOD HIGHLIGHTS
 
 THE best mango smoothies you'll ever have from the Courthouse Markets and bulk papaya plus some pickled papaya (which was super delicious on crackers with cashew cream), oh, and some smoked salt plus mango chilli sauce, because, condiments\!
 
@@ -32,6 +32,16 @@ Finding a plant-based chocolate bar that tasted EXACTLY like a Snickers.
 
 A delicious lunch at Sydney Cove Oyster Bar - best part being they had a gluten free pasta option on the menu which I chose with one of my most fave pastas ever: crab, garlic, chilli, olive oil. It's the simple things, always.&nbsp;
 
-![](/uploads/616b5a75-97a7-4957-97f4-f2e9392359b8-1-201-a.jpeg){: width="1242" height="2048"}
+![](/uploads/616b5a75-97a7-4957-97f4-f2e9392359b8-1-201-a-1.jpeg){: width="1242" height="2048"}
 
-Finding big avocados at the supermarket for $1\! Thought id scored big time being so used to Karratha prices until i returned home and discovered they were also $1 at the supermarket. Double win I guess.
+Finding big avocados at the supermarket for $1\! Thought id scored big time being so used to Karratha prices until i returned home and discovered they were also $1. Double win I guess.
+
+#### FOOD LOWLIGHTS
+
+Having to share said chocolate bar with my kids.
+
+Missing out on the restaurant I really wanted to go to as they're not open on weekends (why though).
+
+Having a really crappy last supper. The place was super busy, their menu wasn't great, they sold out of chicken nuggets (my poor children\!) and it was all just a bit disappointing.&nbsp;
+
+&nbsp;
