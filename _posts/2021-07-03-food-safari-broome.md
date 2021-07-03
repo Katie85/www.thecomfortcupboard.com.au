@@ -34,7 +34,7 @@ A delicious lunch at Sydney Cove Oyster Bar - the best part being that they had 
 
 ![](/uploads/616b5a75-97a7-4957-97f4-f2e9392359b8-1-201-a-1.jpeg){: width="1242" height="2048"}
 
-Finding BIG avocados at the supermarket for $1\! I thought I'd scored big time being so used to Karratha prices until i returned home and discovered they were also $1. Double win I guess.
+Finding BIG avocados at the supermarket for $1\! I thought I'd scored big time being so used to Karratha prices until I returned home and discovered they were also $1. Double win I guess.
 
 &nbsp;
 
