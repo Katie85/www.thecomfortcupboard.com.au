@@ -18,37 +18,21 @@ What does an eight hour road trip with two young kids and giving birth have in c
 
 THE best mango smoothies you'll ever have from the Courthouse Markets plus bulk papaya and some pickled papaya (which was super delicious on crackers with cashew cream), AND some smoked salt plus mango chilli sauce, because, condiments\!
 
-&nbsp;
-
 ![](/uploads/51c1f95b-58de-4306-b29a-0e9172fe2f0a-1-201-a.jpeg){: width="1230" height="1990"}
-
-&nbsp;
 
 Watching my little boy demolish half a papaya. He's entered a fussy stage so this was incredibly thrilling. \#mumthings
 
 Girls' lunch date with my little lady and we happened to be right next door to a crystal shop (way to my heart). I love when places do good salads; like proper mealy kind of salads: random fresh ingredients, great dressing, large servings. Happiness.
 
-&nbsp;
-
 ![](/uploads/68147672-6e71-454b-b281-79edbfcaf943-1-201-a.jpeg){: width="1156" height="1717"}
-
-&nbsp;
 
 Finding a plant based chocolate bar that tasted EXACTLY like a Snickers.
 
-&nbsp;
-
 ![](/uploads/6d3cb550-f15d-4419-b4c6-cc975b066e0f-1-201-a.jpeg){: width="3024" height="4032"}
-
-&nbsp;
 
 A delicious lunch at Sydney Cove Oyster Bar - the best part being that they had a gluten free pasta option on the menu which I chose with one of my most fave pastas ever: crab, garlic, chilli, olive oil. It's the simple things, always.&nbsp;
 
-&nbsp;
-
 ![](/uploads/616b5a75-97a7-4957-97f4-f2e9392359b8-1-201-a-1.jpeg){: width="1242" height="2048"}
-
-&nbsp;
 
 Finding BIG avocados at the supermarket for $1\! I thought I'd scored big time being so used to Karratha prices until i returned home and discovered they were also $1. Double win I guess.
 
@@ -61,6 +45,8 @@ Having to share said chocolate bar with my kids.
 Missing out on the restaurant I really wanted to go to as they're not open on weekends (why though).
 
 Having a really crappy last supper. The place was super busy, their menu wasn't great, they'd sold out of chicken nuggets (my poor children\!) and it was all just a bit disappointing.&nbsp;
+
+&nbsp;
 
 ### LESSONS LEARNT
 
