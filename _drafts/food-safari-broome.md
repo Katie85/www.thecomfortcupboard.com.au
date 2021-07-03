@@ -18,4 +18,14 @@ What does an eight hour road trip with two young kids and giving birth have in c
 
 THE best mango smoothies you'll ever have from the Courthouse Markets and bulk papaya plus some pickled papaya (which was super delicious on crackers with cashew cream), oh, and some smoked salt plus mango chilli sauce, because, condiments\!
 
+![](/uploads/51c1f95b-58de-4306-b29a-0e9172fe2f0a-1-201-a.jpeg){: width="1230" height="1990"}
+
 Watching my little boy demolish half a papaya. He has entered a fussy stage so this was incredibly thrilling. \#mumthings
+
+Girls' lunch date with my little lady which happened to be next door to a crystal shop. Way to my heart. And I love when you go to places that do good salads as meals; like proper mealy kind of salads, random ingredients, good dressing, large servings. Happy.
+
+![](/uploads/68147672-6e71-454b-b281-79edbfcaf943-1-201-a.jpeg){: width="1156" height="1717"}
+
+Finding a plant-based chocolate bar that tasted EXACTLY like a Snickers.
+
+![](/uploads/6d3cb550-f15d-4419-b4c6-cc975b066e0f-1-201-a.jpeg){: width="3024" height="4032"}
