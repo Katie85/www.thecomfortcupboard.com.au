@@ -48,11 +48,11 @@ Having a really crappy last supper. The place was super busy, their menu wasn't 
 
 Entice your kids with kids with fresh, colourful juices with heaps of veg in them to counteract all of the hot chips, chicken nuggets and ice cream they will inevitably eat.
 
-I f you find an amazing plant-based chocolate bar that tastes exactly like a Snickers buy multiple and hide them from your kids.
+If you find an amazing plant-based chocolate bar that tastes exactly like a Snickers, buy multiple and hide them from your kids.
 
 Lunch at nice restaurants with young kids is not always a great experience but I'm willing to risk it for good food.
 
-If you have expectations of a really lovely last night sometimes its best to take matters into your own hands and make a picnic and take it to the beach instead of going all in on a mediocre restaurant, at a shitty table, with no chicken nuggets and super oily sautéed side veg (clearly me trying to counteract all there hot chips I'd been eating) because good food and family is all that really matters in life, and the secret to happiness is no expectations.
+If you have expectations of a really lovely last night sometimes it's best to take matters into your own hands; make a picnic, and take it to the beach, instead of going all in on a mediocre restaurant, at a shitty table, with no chicken nuggets and super oily sautéed side veg (me trying to counteract all the hot chips I'd been eating) because good food and family is all that really matters in life.
 
 &nbsp;
 
