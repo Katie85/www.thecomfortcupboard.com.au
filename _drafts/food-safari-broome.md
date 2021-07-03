@@ -46,4 +46,12 @@ Having a really crappy last supper. The place was super busy, their menu wasn't 
 
 #### LESSONS LEARNT
 
+Entice your kids with kids with fresh, colourful juices with heaps of veg in them to counteract all of the hot chips, chicken nuggets and ice cream they will inevitably eat.
+
+I f you find an amazing plant-based chocolate bar that tastes exactly like a Snickers buy multiple and hide them from your kids.
+
+Lunch at nice restaurants with young kids is not always a great experience but I'm willing to risk it for good food.
+
+&nbsp;
+
 &nbsp;
