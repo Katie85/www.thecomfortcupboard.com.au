@@ -29,3 +29,5 @@ Girls' lunch date with my little lady which happened to be next door to a crysta
 Finding a plant-based chocolate bar that tasted EXACTLY like a Snickers.
 
 ![](/uploads/6d3cb550-f15d-4419-b4c6-cc975b066e0f-1-201-a.jpeg){: width="3024" height="4032"}
+
+A delicious lunch at Sydney Cove Oyster Bar - best part being they had a gluten free pasta option on the menu which I chose with one of my most fave pastas ever: crab, garlic, chilli, olive oil. It's the simple things, always.&nbsp;
