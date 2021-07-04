@@ -30,7 +30,7 @@ Finding a plant based chocolate bar that tasted EXACTLY like a Snickers.
 
 ![](/uploads/6d3cb550-f15d-4419-b4c6-cc975b066e0f-1-201-a-1.jpeg){: width="3024" height="4032"}
 
-A delicious lunch at Sydney Cove Oyster Bar - the best part was that they had a gluten free pasta option on the menu which I chose with one of my most fave pastas ever: crab, garlic, chilli, olive oil. It's the simple things, always.&nbsp;
+A delicious lunch at Sydney Cove Oyster Bar - the best part being that they had a gluten free pasta option on the menu which I chose with one of my most fave pastas ever: crab, garlic, chilli, olive oil. It's the simple things, always.&nbsp;
 
 ![](/uploads/616b5a75-97a7-4957-97f4-f2e9392359b8-1-201-a-1.jpeg){: width="1242" height="2048"}
 
