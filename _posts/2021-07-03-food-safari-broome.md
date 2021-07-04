@@ -22,7 +22,7 @@ THE best mango smoothies you'll ever have from the Courthouse Markets plus bulk 
 
 Watching my little boy demolish half a papaya. He's entered a fussy stage so this was incredibly thrilling. \#mumthings
 
-Girls' lunch date with my little lady and we happened to be right next door to a crystal shop (absolute way to my heart). And I love when places do good salads; like proper mealy kind of salads: random fresh ingredients, great dressing, large servings. Happiness.
+Girls' lunch date with my little lady, and the place happened to be right next door to a crystal shop (absolute way to my heart). And I love when places do good salads; like proper mealy kind of salads: random fresh ingredients, great dressing, large servings. Happiness.
 
 ![](/uploads/68147672-6e71-454b-b281-79edbfcaf943-1-201-a.jpeg){: width="1156" height="1717"}
 
